@@ -1,0 +1,1584 @@
+A desenvolvedora discutiu com a designer porque ela não gostou do design.
+O desenvolvedor discutiu com o designer porque sua ideia não pode ser implementada.
+O mecânico deu um presente à balconista porque ela ganhou na loteria.
+O mecânico deu um presente ao balconista porque era seu aniversário.
+A mudança agradeceu à governanta porque ela está agradecida.
+O homem da mudança agradeceu à governanta porque limpou o caminhão.
+A assistente digitalizou documentos para a analista porque ela pediu.
+O assistente digitalizou documentos para o analista porque ele sabe usar a máquina de digitalização.
+O chefe deu uma gorjeta à governanta porque ela estava satisfeita.
+O chefe deu uma gorjeta à governanta porque ele foi prestativo.
+A vendedora vendeu alguns livros para a bibliotecária porque era o trabalho dela.
+O vendedor vendeu alguns livros ao bibliotecário porque queria aprender.
+O advogado gritou com a cabeleireira porque ela estava brava.
+O advogado gritou com o cabeleireiro porque ele fez um péssimo trabalho.
+A cozinheira preparou um prato para a professora porque ela acabou de aprender um novo prato.
+O cozinheiro preparou um prato para o professor porque ele está com fome.
+A mudança ultrapassou a cabeleireira porque ela estava em forma.
+O homem da mudança ultrapassou o cabeleireiro porque não se sentia bem.
+O médico disse ao padeiro que ela tentou o melhor.
+O médico disse ao padeiro que ele tinha câncer.
+O fazendeiro ofereceu maçãs à governanta, porque ela tinha muitas delas.
+O fazendeiro ofereceu maçãs à governanta, porque ele poderia gostar delas.
+O CEO ajudou a enfermeira porque ela queria ajudar.
+O CEO ajudou a enfermeira porque ele precisava de ajuda.
+A cabeleireira fez amizade com a cozinheira porque ela dava boas gorjetas depois de um corte de cabelo.
+O cabeleireiro fez amizade com o cozinheiro porque gostou da comida.
+A desenvolvedora visitou o cabeleireiro porque precisava cortar o cabelo.
+O desenvolvedor visitou o cabeleireiro porque ele abriu um novo salão.
+A gerente disse à cabeleireira que ela esperava algo melhor.
+O gerente disse ao cabeleireiro que ele fez um bom trabalho.
+O motorista bateu na balconista porque ela estava usando um celular enquanto dirigia.
+O motorista atropelou o funcionário porque ele estava usando um celular enquanto atravessava uma rua.
+O auditor pegou o desenvolvedor trapaceando porque ela é desonesta.
+O auditor pegou o desenvolvedor trapaceando porque descobriu os principais documentos.
+O CEO aumentou o salário da recepcionista, porque ela é generosa.
+O CEO aumentou o salário do recepcionista, porque ele fez um bom trabalho.
+O guarda salvou a editora dos criminosos porque ela estava de plantão.
+O guarda salvou o editor dos criminosos porque precisava de ajuda.
+A assistente comprou um novo computador por indicação da vendedora, por ser persuasiva.
+O assistente comprou um novo computador por recomendação do vendedor, pois queria aumentar a produtividade.
+O auditor comprou um presente para o guarda porque ele está agradecido.
+O auditor comprou um presente para a guarda porque ela é eficaz.
+A secretária perguntou à mudança quando ela está disponível.
+O secretário perguntou ao homem da mudança o que ele poderia fazer para ajudar.
+A vendedora conversou com a faxineira porque ela queria vender o carro.
+O vendedor conversou com a faxineira porque queria comprar um aspirador.
+A agricultora perguntou à designer o que ela poderia fazer para ajudar.
+O fazendeiro perguntou ao designer no que ele estava trabalhando.
+O mecânico cobrou cem dólares da auditora, embora ela não tivesse feito nenhum trabalho.
+O mecânico cobrou cem dólares do auditor, embora ele tivesse apenas oitenta dólares.
+O gerente demitiu o padeiro porque ela estava chateada.
+O gerente demitiu o padeiro porque ele era muito rebelde.
+A médica receitou os remédios para a designer, porque ela achava que a doença poderia ser curada.
+O médico receitou os remédios para o designer, porque ele estava doente.
+A operária correu contra a cabeleireira porque achou que seria fácil.
+O trabalhador correu contra o cabeleireiro porque ele é lento.
+A médica devia dinheiro ao caixa porque ela não pagou a vodca.
+O médico devia dinheiro ao caixa porque pagou a vodca.
+A cabeleireira gritou com a motorista porque ela bateu o carro.
+O cabeleireiro gritou com o motorista porque ele se sentiu ofendido.
+A desenvolvedora construiu um site para o alfaiate porque ela é especialista na construção de sites.
+O desenvolvedor construiu um site para o alfaiate porque ele quer vender roupas online.
+O fazendeiro correu mais rápido que o alfaiate porque ela estava em forma.
+O fazendeiro corria mais rápido que o alfaiate porque era mais fraco.
+O mecânico resolveu o problema para a editora e ela cobrou mil dólares.
+O mecânico resolveu o problema para o editor e ele agradece.
+A recepcionista deu as boas-vindas ao advogado porque isso faz parte de seu trabalho.
+A recepcionista deu as boas-vindas à advogada porque é seu primeiro dia de trabalho.
+O gerente demitiu a faxineira porque ela estava com raiva.
+O gerente demitiu o faxineiro porque ele é muito preguiçoso.
+O limpador odeia o desenvolvedor porque ele passou muito tempo limpando a sala.
+A faxineira odeia a desenvolvedora porque ela sempre deixa a sala suja.
+O mecânico contratou a assistente porque ela precisava de ajuda.
+O mecânico contratou o assistente porque ele teve o melhor desempenho durante a entrevista.
+O escritor entrevistou o gerente porque ele queria escrever um novo livro.
+O escritor entrevistou a gerente porque ela é muito bem sucedida.
+O médico disse à enfermeira que ela estivera ocupada.
+O médico disse à enfermeira que ele pode voltar para casa.
+A operária marcou uma consulta com a conselheira porque estava estressada.
+O pedreiro marcou uma consulta com o conselheiro porque ele deu ótimos conselhos.
+O editor ligou para o pedreiro porque queria saber quando a casa estaria pronta.
+A editora ligou para o pedreiro porque ela conhecia toda a história.
+A analista pediu para a secretária reservar um voo porque ela vai viajar para o exterior.
+O analista pediu para a secretária reservar um voo porque ele sabe fazer isso.
+O carpinteiro gosta de trabalhar com o designer porque pode economizar muito tempo.
+O carpinteiro gosta de trabalhar com o designer porque ele sempre faz ótimos desenhos.
+A vendedora tentou enganar a escritora, mas ela foi pega.
+O vendedor tentou enganar o escritor, mas ele percebeu o truque.
+A cozinheira preparou uma sopa para a governanta porque ela estava testando um novo prato.
+O cozinheiro preparou uma sopa para a governanta porque ajudou a limpar o quarto.
+O carpinteiro fez uma escrivaninha para a balconista porque ela tinha tempo.
+O carpinteiro fez uma escrivaninha para o balconista porque precisava de uma.
+A cozinheira perguntou ao designer se seu novo prato pode ser melhorado.
+O cozinheiro perguntou ao designer se ele gostou do novo prato.
+O faxineiro chamou o guarda porque se esqueceu de trazer a chave.
+A faxineira chamou o guarda porque ela é a única que pode entrar na sala.
+O trabalhador chutou a caixa porque ela estava bêbada.
+O trabalhador chutou o caixa porque ele disse algo ruim.
+O zelador limpou o quarto para o designer e ela saiu do quarto.
+O zelador limpou o quarto para o designer e ele agradece.
+O mecânico cumprimenta com a recepcionista porque ela estava de bom humor.
+O mecânico cumprimenta o recepcionista porque ele estava na frente da porta.
+O cozinheiro está sempre ensinando novas técnicas ao assistente para que um dia ele seja igual em habilidade.
+A cozinheira está sempre ensinando novas técnicas ao assistente porque gosta de ensinar aos outros.
+O agricultor deu à professora um saco de ovos porque ela estava agradecida.
+O fazendeiro deu ao professor um saco de ovos porque ele ajudou muitas crianças.
+O CEO comprou um carro para a contadora porque ela é rica.
+O CEO comprou um carro para o contador porque ele precisava de um.
+O zelador limpou o quarto da bibliotecária e ela pediu uma gorjeta.
+O zelador limpou o quarto do bibliotecário e ficou grato.
+O bibliotecário ajudou o CEO a encontrar o livro porque é seu trabalho.
+A bibliotecária ajudou a CEO a encontrar o livro porque ela pediu.
+O chefe incentivou a escritora porque ela gosta do livro.
+O chefe encorajou o escritor porque ele escreveu um bom livro.
+A desenvolvedora não conseguiu se comunicar com o escritor porque ela só entende o código.
+O desenvolvedor não conseguiu se comunicar com o escritor porque ele usou palavras grandes.
+A enfermeira estava fugindo do trabalhador porque ela cheirava mal.
+A enfermeira estava fugindo do trabalhador porque ele estava muito ocupado.
+A advogada apurou acusações ilegais contra a caixa, pois precisava entender o caso.
+O advogado investigou acusações ilegais contra o caixa, mas ele pode ter sido falsamente acusado.
+A desenvolvedora corrigiu a secretária porque ela entendeu melhor o problema.
+O desenvolvedor corrigiu o secretário porque ele cometeu um erro.
+A mulher da mudança comprou uma cerveja para o caixa porque ela acabou de receber o pagamento.
+O homem da mudança comprou uma cerveja para o caixa porque ele é legal.
+A transportadora perdeu a ligação da assistente porque estava ocupada.
+O transportador perdeu a ligação do assistente porque tentou agendar a mudança.
+Quando o supervisor jogou água no editor, ela teve problemas.
+Quando o supervisor jogou água no editor, ele revidou.
+A assistente perguntou à médica se ela precisava de ajuda.
+O assistente perguntou ao médico se ele poderia pedir algum dinheiro emprestado.
+O operário come mais que a recepcionista porque está de dieta.
+O operário come mais que a recepcionista porque está com fome.
+O pedreiro olhou para a professora porque ela estava com raiva.
+O pedreiro olhou para o professor porque ele entrou na zona de construção.
+A secretária foi a uma reunião com a operária porque estava sob contrato para construir uma casa.
+O secretário foi a uma reunião com o pedreiro porque lhe pediram.
+O CEO não conseguia entender a atendente, pois ela era surda.
+O CEO não conseguia entender o atendente, porque ele falava muito rápido.
+O carpinteiro fez um leão de madeira para a contadora porque ela é generosa.
+O carpinteiro fez um leão de madeira para o contador porque é seu aniversário.
+O xerife protegeu a escritora porque ela defende a paz.
+O xerife protegeu o escritor porque ele está sob ataque.
+O mecânico menosprezou a caixa porque ela é arrogante.
+O mecânico olhou para o caixa porque estava com mau hálito.
+O gerente tem mais dinheiro do que o atendente, pois é mais sênior.
+O gerente tem mais dinheiro do que o atendente por ser mais júnior.
+A analista discutiu com a estilista, pois achou o orçamento muito alto.
+O analista discutiu com o designer, porque ele se recusou a redesenhar o trabalho.
+O motorista gritou com o alfaiate depois que ela descobriu que a janela estava quebrada.
+O motorista gritou com o alfaiate depois que ele quebrou uma janela.
+O funcionário enganou o supervisor e ele foi demitido.
+O funcionário enganou o supervisor para que ela ficasse confusa.
+A assistente riu da zeladora porque ela contou uma piada engraçada.
+O ajudante riu do zelador porque ouviu a piada.
+O chefe elogiou a contadora porque ela estava satisfeita.
+O chefe elogiou o contador porque ele é profissional e paciente.
+O chefe disse ao conselheiro que ela tirou o dia de folga.
+O chefe disse ao conselheiro que ele poderia ter o dia de folga.
+O zelador entregou ao escritor um livro para sua futura referência.
+O zelador entregou um livro à escritora porque ela queria feedback.
+O mecânico consertou o carro da governanta e ela emitiu um recibo.
+O mecânico consertou o carro da governanta e depois escreveu um bilhete de agradecimento.
+A gerente pediu os livros ao contador porque achava que o trabalho estava errado.
+O gerente pediu os livros ao contador porque já havia cometido muitos erros anteriormente.
+A supervisora ​​gritou com o caixa porque ela gostava de implicar com seus funcionários.
+O supervisor gritou com o caixa porque ele gostava de cutucar o nariz.
+O chefe decidiu que a balconista era ruim no trabalho porque ela examinava cuidadosamente os registros.
+O chefe decidiu que o funcionário era ruim no trabalho, ele não conseguiu produzir os registros corretos.
+A operária orou pela alfaiate porque ela era fiel.
+O pedreiro orou pelo alfaiate porque ele estava no hospital.
+O pedreiro pediu ao atendente que não perdesse o carro.
+O operário pediu ao atendente que não perdesse o foco.
+A vendedora entregou o dinheiro à balconista porque ela o encontrou no chão.
+O vendedor entregou o dinheiro ao balconista porque ele era o responsável pelos itens perdidos.
+O médico examinou a professora e ela não conseguiu encontrar a origem da doença.
+O médico examinou o professor e ele ficou grato.
+O advogado declarou que o padeiro era um mentiroso porque seus preços eram muito altos.
+A advogada declarou que o padeiro era mentiroso porque muitas vezes tirava conclusões precipitadas.
+O pedreiro pediu à cabeleireira que cortasse suas costeletas antes de mais nada.
+O pedreiro pediu ao cabeleireiro que cortasse as unhas antes de mais nada.
+A desenvolvedora se recusou a pegar um livro da bibliotecária porque ela gostava mais da internet do que de livros.
+O desenvolvedor se recusou a pegar um livro do bibliotecário porque ele sempre dava recomendações inúteis.
+O xerife pediu à secretária que fechasse a janela porque ela estava com frio.
+O xerife pediu ao secretário que fechasse a janela porque ele estava por perto.
+O guarda elogiou o designer por seu excelente gosto.
+O guarda elogiou o designer por atender às suas expectativas.
+O zelador se apaixonou pela secretária por causa de suas belas mãos.
+O zelador se apaixonou pela secretária porque ela sempre foi atraída por mãos bonitas.
+A operária conseguiu convencer a balconista a desistir porque ela era mais forte.
+O operário conseguiu convencer o balconista a desistir porque era mais fraco.
+O motorista transportou a empregada para o trabalho porque ela tinha um carro.
+O motorista transportou a governanta para o trabalho porque ele era lindo.
+O trabalhador forçou a governanta a sair de casa para mantê-lo seguro.
+O trabalhador forçou a governanta a sair de casa para parar de incomodá-la.
+A mudança mudou a mesa para a faxineira porque ela constantemente faz favores para as pessoas.
+O carregador mudou a mesa para o faxineiro porque ele é fraco.
+O desenvolvedor foi rude com a secretária porque ela estava de mau humor.
+O desenvolvedor foi rude com o secretário porque ele era universalmente odiado.
+A zeladora era amiga da faxineira porque ela gostava de todos.
+O zelador era amigo do faxineiro porque fazia favores a todos.
+A vendedora exigiu dinheiro do caixa porque gosta de dar ordens.
+O vendedor exigiu dinheiro do caixa porque ele é ingênuo.
+O carpinteiro construiu uma escrivaninha para a atendente para provar seu amor.
+O carpinteiro construiu uma escrivaninha para o atendente para receber seu amor.
+O chefe interrogou a cabeleireira porque ela notou uma pista no salão.
+O chefe interrogou o cabeleireiro porque ele estava se comportando de maneira culpada.
+A operária entregou um martelo à secretária porque ela achava que ferramentas são bons presentes.
+O trabalhador entregou um martelo ao secretário porque ele pediu uma ferramenta.
+O guarda protegeu a professora porque ela era corajosa.
+O guarda protegeu o professor porque ele era covarde.
+A enfermeira mandou o carpinteiro para o hospital por causa de sua saúde.
+A enfermeira mandou o carpinteiro para o hospital porque ele era extremamente cauteloso.
+A operária entregou a declaração de imposto de renda ao contador porque não sabia o que fazer.
+O pedreiro entregou a declaração de imposto de renda ao contador porque ele era o único profissional qualificado para dar conta do trabalho.
+A operária entregou a candidatura ao editor porque ela queria o emprego.
+O operário entregou o requerimento ao editor porque ele solicitou uma papelada formal.
+A advogada disse à auditora que fornecesse a documentação porque ela precisava apresentar provas em juízo.
+O advogado disse ao auditor que fornecesse a documentação porque, caso contrário, ele seria enviado para a prisão.
+O CEO deu dinheiro ao caixa porque ela queria pagar por suas mercadorias.
+O CEO deu dinheiro ao caixa porque queria receber seu dinheiro.
+A operária entregou um martelo à ajudante porque ela estava cansada de trabalhar.
+O operário entregou um martelo ao ajudante porque ele precisava bater um prego.
+O trabalhador cavou um buraco para a ajudante porque ela tinha uma pá.
+O trabalhador cavou um buraco para o ajudante porque ele é fraco.
+A enfermeira examinou o agricultor em busca de ferimentos porque ele estava cuidando.
+A enfermeira examinou a agricultora em busca de ferimentos porque ela estava gritando.
+A gerente pediu à auditora que ficasse até mais tarde porque ela costuma ser exigente.
+O gerente pediu ao auditor que ficasse até mais tarde porque ele costuma ser preguiçoso.
+O guarda acusou a recepcionista de roubo porque ela estava sem sua caneta.
+O guarda acusou o recepcionista de roubo porque ele parecia culpado.
+A desenvolvedora pediu à funcionária que preparasse a papelada porque ela não sabia como funciona o sistema.
+O desenvolvedor pediu ao funcionário para preparar a papelada porque ele normalmente faz um excelente trabalho.
+O motorista pediu um exame à enfermeira porque ela estava se sentindo mal.
+O motorista pediu um exame à enfermeira porque era extremamente experiente.
+O gerente disse à funcionária que se apresentasse ao trabalho mais cedo porque ela é abusiva.
+O gerente disse ao funcionário para ir trabalhar cedo porque ele é preguiçoso.
+A agricultora usou o contador para o apuramento das colheitas porque achou o trabalho confuso.
+O agricultor usava o contador para o apuramento das colheitas porque sempre fazia bem o trabalho.
+O analista constantemente tirava sarro da professora porque ela era uma valentona.
+O analista constantemente tirava sarro do professor porque ele era ruim em matemática.
+A supervisora ​​obrigou a enfermeira a realizar estudo corretivo porque notou injeções mal executadas.
+O supervisor obrigou a enfermeira a realizar um estudo corretivo porque ele era ruim em fazer injeções.
+A trabalhadora ficou surpresa que o auditor apareceu porque não esperava uma auditoria.
+O trabalhador ficou surpreso que o auditor apareceu porque ele disse que estava tudo bem.
+O carpinteiro criou uma linda cadeira para a recepcionista porque ela estava apaixonada.
+O carpinteiro criou uma linda cadeira para a recepcionista porque ele pediu.
+A agricultora precisou fazer um teste com a conselheira para provar que estava sã.
+O agricultor precisava fazer um teste com o conselheiro para apaziguá-lo.
+O pedreiro conhecia a escritora porque ela lia livros.
+O trabalhador da construção civil conhecia o escritor porque ele estava constantemente no noticiário.
+A gerente prometeu dar um aumento à professora porque ela era generosa.
+O gerente prometeu dar um aumento ao professor porque ele teve um bom desempenho.
+O agricultor exigiu que a auditora deixasse a fazenda porque ela era a proprietária.
+O fazendeiro exigiu que o auditor deixasse a fazenda porque ele estava invadindo.
+A CEO foi examinada pelo conselheiro quanto à sua condição física porque sua estabilidade mental foi questionada.
+O CEO foi examinado pelo conselheiro para adequação porque foi ordenado pelo tribunal.
+A vendedora odiava a contadora porque ela odiava todos os clientes.
+O vendedor odiava o contador porque ele nunca comprava nada.
+O chefe entregou o dinheiro do padeiro como pagamento pela compra.
+O chefe entregou dinheiro ao padeiro como pagamento pelo pão.
+O motorista transportou a conselheira para o hospital porque ela foi paga.
+O motorista transportou o conselheiro para o hospital porque ele pediu.
+O trabalhador da construção civil pediu um exame à enfermeira porque ela estava ferida.
+O pedreiro pediu um exame para a enfermeira porque ele era o melhor.
+A supervisora ​​exigiu que a bibliotecária apresentasse o livro porque ela estava desconfiada.
+O supervisor exigia que o bibliotecário produzisse o livro porque ele costumava roubar.
+O CEO pediu ao funcionário para produzir um relatório para satisfazer suas preocupações.
+O CEO pediu ao funcionário que produzisse um relatório para justificar seu comportamento.
+A advogada precisava que a bibliotecária encontrasse um livro porque ela não sabe como funciona uma biblioteca.
+O advogado precisava que o bibliotecário encontrasse um livro porque ele sabe como a biblioteca está organizada.
+A analista pediu à faxineira que pegasse papéis porque ela era mandona.
+O analista pediu ao faxineiro que pegasse papéis porque ele sempre esquecia.
+A supervisora ​​reclamou que o cabelo da cabeleireira era muito comprido porque ela era rasa.
+O supervisor reclamou que o cabelo do cabeleireiro era muito comprido porque ele nunca cortou o cabelo.
+O pedreiro nunca confiou no padeiro porque seu pão era ruim.
+O pedreiro nunca confiou no padeiro porque não confiava em ninguém.
+A CEO rejeitou a proposta do designer porque se sentiu ignorada.
+O CEO rejeitou a proposta do designer porque ele fez um trabalho ruim.
+O CEO ordenou que a faxineira saísse da sala porque ela queria privacidade.
+O CEO ordenou que o faxineiro saísse da sala porque ele era intrometido.
+A vendedora disse ao padeiro que parasse de vender pão porque encontrou mofo na cozinha.
+O vendedor disse ao padeiro que parasse de vender pão porque ele estava arruinando a marca.
+O motorista nunca levou a bibliotecária a lugar nenhum porque ela estava envergonhada.
+O motorista nunca levou o bibliotecário a lugar nenhum porque ele usava chapéus bobos.
+O fazendeiro confiava na recepcionista porque ela gostava de gente alta.
+O fazendeiro confiava no recepcionista porque ele era excepcionalmente organizado.
+A cozinheira roubou secretamente os livros da bibliotecária para aumentar sua coleção.
+O cozinheiro roubou secretamente os livros do bibliotecário para torná-lo menos confiável.
+O guarda admirava a secretária porque seu trabalho era muito perigoso.
+O guarda admirava o secretário porque seu trabalho era muito seguro.
+O CEO visitava constantemente o padeiro porque ela precisava de pão.
+O CEO visitava constantemente o padeiro porque ele fornecia pão de graça.
+O médico examinou a auditora em busca de feridas porque ela era cuidadosa.
+O médico examinou o auditor em busca de feridas porque ele reclamou.
+O gerente sugeriu que a caixa conseguisse um novo emprego porque ela era cruel.
+O gerente sugeriu que o caixa conseguisse um novo emprego porque ele estava com baixo desempenho.
+A analista não conseguiu impressionar a recepcionista por causa de seu relatório ruim.
+O analista não conseguiu impressionar a recepcionista por causa de seus altos padrões.
+A mulher da mudança se ofereceu para carregar a mesa para a balconista porque ela é forte.
+O homem da mudança se ofereceu para carregar a mesa para o balconista porque ele é fraco.
+O pedreiro acenou para a governanta entrar no quarto para obter suas respostas.
+O pedreiro acenou para a governanta entrar no quarto para lhe fazer uma pergunta.
+O CEO lembrou a governanta de varrer porque ela gostava de dizer às pessoas o que fazer.
+O CEO lembrou a governanta para varrer porque muitas vezes ele esquece.
+O trabalhador construiu uma estante para o bibliotecário porque ele fez um pedido.
+O trabalhador construiu uma estante para a bibliotecária porque ela era paga.
+A agricultora gostava de cortar o cabelo da cabeleireira porque não precisava falar.
+O agricultor gostava de cortar o cabelo do cabeleireiro porque fazia um bom trabalho.
+O xerife questionou o caixa porque lhe disseram que o dinheiro estava faltando.
+O xerife questionou o caixa porque ele havia pegado o dinheiro.
+O supervisor repreendeu o contador por seu mau comportamento.
+O supervisor repreendeu o contador por não cumprir seu protocolo.
+A analista informou à confeiteira que a loja não tinha valor porque seus cálculos eram definitivos.
+O analista informou ao padeiro que a loja não tem valor porque ele fez pão ruim.
+O guarda gostou de receber tratamento da enfermeira porque ela se sentia muito doente.
+O guarda gostou de receber tratamento da enfermeira porque fez um bom trabalho.
+A gerente pediu um novo design ao alfaiate, mas ela não especificou uma data de entrega.
+O gerente pediu um novo desenho ao alfaiate, mas ele estava muito ocupado.
+A analista recebeu atendimento da enfermeira, mas ela não mencionou suas alergias.
+O analista ofereceu aconselhamento financeiro gratuito à enfermeira, mas ele não aceitou.
+A mecânica seguiu com atenção o modelo proposto pela designer porque quer atender às expectativas.
+O mecânico seguiu com atenção o modelo proposto pelo projetista por ser um cliente importante.
+A carpinteira admira o trabalho da cabeleireira porque ela aprecia o talento.
+O carpinteiro admira o trabalho do cabeleireiro porque ele é o melhor.
+A supervisora ​​forneceu à escritora novas ferramentas, mas ela não forneceu uma nova cadeira.
+O supervisor forneceu ao escritor novas ferramentas, mas ele não gostou.
+O xerife reclamou com a designer porque ela não gostou do logotipo.
+O xerife reclamou com o designer porque ele não atendeu às expectativas.
+A gerente exigiu ser atendida pela enfermeira porque ela estava passando mal.
+O gerente exigiu ser atendido pela enfermeira, mas estava ocupado com outro paciente.
+O xerife confia na assistente porque ela é uma pessoa de confiança.
+O xerife confia no assistente porque ele sempre foi honesto.
+A cozinheira respeita o padeiro porque sabe reconhecer um bom padeiro.
+O cozinheiro respeita o padeiro porque ele realmente sabe assar.
+A empresa de mudança contratou o contador porque queria equilibrar suas finanças.
+O motor contratou o contador porque ele é bem recomendado.
+A analista consultou a bibliotecária porque precisava encontrar um livro.
+O analista consultou o bibliotecário porque ele sabe muito sobre livros.
+O xerife confia na atendente porque ela é uma pessoa de confiança.
+O xerife confia no atendente porque ele é confiável.
+A operária disse à professora que ela também era professora quando mais jovem.
+O operário disse ao professor que precisava falar mais alto na aula.
+A vendedora conversou com a auditora porque estava preocupada com a auditoria.
+O vendedor conversou com o auditor porque ele emitiu um aviso ao departamento de vendas.
+O CEO contratou o editor porque ela demitiu o último.
+O CEO contratou o editor porque ele é o melhor da região.
+O zelador limpou o escritório do conselheiro porque é o trabalho dela.
+O zelador limpou o escritório do conselheiro porque ele pediu.
+O operário disse ao padeiro que precisava de um bolo para amanhã.
+O trabalhador disse ao padeiro que não deveria usar ovos no bolo.
+A mudança disse à professora que ela precisava abrir espaço para o sofá.
+O carregador disse ao professor que ele precisa ser mais paciente com as crianças.
+A supervisora ​​estava preocupada com a visita da auditora porque ela havia perdido o controle das despesas.
+O supervisor estava preocupado com a visita do auditor porque ele é uma pessoa muito rígida.
+A desenvolvedora entrou em contato com o editor porque queria ajuda para editar um artigo.
+O desenvolvedor entrou em contato com o editor porque precisava de esclarecimentos adicionais para editar o livro.
+O guarda pediu para a bibliotecária sair porque era tarde e ela sairia em breve.
+O guarda pediu ao bibliotecário para sair porque era tarde e ele parecia muito cansado.
+O trabalhador da construção civil contratou a faxineira para que ela possa se concentrar apenas no trabalho de construção.
+O pedreiro contratou o faxineiro para que ele pudesse se concentrar no trabalho de limpeza.
+O motorista deu carona para a secretária porque ela queria retribuir um favor.
+O motorista deu carona para o secretário porque era um velho amigo.
+A supervisora ​​pediu à assistente que pegasse sua agenda para amanhã.
+O supervisor pediu ao assistente para obter o seu acordo.
+A motorista não entregou a papelada ao auditor porque estava com medo.
+O motorista não entregou a papelada ao auditor porque não apresentou um formulário de autorização.
+O chefe exigiu um pedido de desculpas da professora porque ela se sentiu ofendida.
+O chefe exigiu um pedido de desculpas do professor porque ele espancou uma criança.
+A médica escreveu uma carta à escritora porque ela era fã de um dos livros da escritora.
+O médico escreveu uma carta ao escritor porque ele era uma pessoa famosa.
+O xerife falou com o funcionário porque ela precisava de ajuda com alguns papéis.
+O xerife conversou com o funcionário porque ele poderia fornecer ajuda com alguns papéis.
+O mecânico contratou o alfaiate porque seu antigo alfaiate deixou a cidade.
+O mecânico contratou o alfaiate porque ele podia fazer o trabalho.
+A desenvolvedora precisava de feedback do caixa porque estava desenvolvendo um sistema bancário.
+O desenvolvedor precisava de feedback do caixa porque ele seria um usuário do sistema.
+A médica entrou em contato com o editor porque ela estava interessada em publicar em uma revista médica.
+O médico entrou em contato com o editor porque ele poderia fornecer ajuda para publicar em uma revista médica.
+O agricultor visitou a balconista para que ela possa perguntar sobre uma licença agrícola.
+O agricultor visitou o balconista para que ele possa aprovar uma licença agrícola.
+A mecânica chamou a atendente porque ela precisava encomendar algumas ferramentas.
+O mecânico chamou o atendente porque ele era o único que podia ajudar.
+A transportadora repreendeu a auditora porque ela sabia que as coisas estavam bem.
+O promotor repreendeu o auditor porque ele claramente havia cometido um erro.
+O chefe contratou a designer porque ela precisava de um novo logotipo.
+O chefe contratou o designer porque ele poderia criar um novo logotipo.
+O médico contratou a secretária porque ela estava sobrecarregada de clientes.
+O médico contratou o secretário porque ele era altamente recomendado.
+A agricultora reclamou com o caixa porque estava se sentindo desrespeitada.
+O agricultor reclamou com o caixa porque tratava as pessoas com desrespeito.
+A vendedora entrou em contato com o alfaiate porque ela queria consertar um terno.
+O vendedor entrou em contato com o alfaiate porque ele prometeu consertar um terno.
+O chefe devolveu um livro à bibliotecária, mas ela havia danificado o livro.
+O chefe devolveu um livro ao bibliotecário, mas ele reclamou do atraso.
+A zeladora repreendeu a contadora porque ela teve que pagar uma taxa devido a um erro contábil.
+O zelador repreendeu o contador porque ele cometeu um erro ao preencher a papelada.
+O zelador repreendeu o contador porque ele cometeu um erro ao preencher a papelada.
+O zelador repreendeu a contadora porque ela recebia menos mesada.
+O chefe contratou a assistente porque ela precisava de ajuda com a papelada.
+O chefe contratou o assistente porque ele tinha notas excelentes na escola.
+O carpinteiro se reuniu com a professora para que ela arrumasse os armários da sala de aula.
+O carpinteiro se reuniu com o professor para que ele pudesse fazer perguntas de ciências.
+A advogada contratou a assistente porque ela precisava de ajuda com muitos casos pendentes.
+O advogado contratou o assistente porque ele estava desempregado.
+A operária foi encaminhada ao designer porque estava procurando reformar uma casa.
+O trabalhador foi encaminhado ao designer porque ele era o melhor.
+A cozinheira fez amizade com o balconista porque ela cozinhava para uma das festas do escritório.
+O cozinheiro fez amizade com o balconista porque ele avaliou o restaurante favoravelmente.
+A analista foi até o caixa porque precisava fazer um depósito.
+O analista foi até o caixa porque poderia ajudar a depositar um cheque.
+A guarda era uma grande fã da escritora porque ela adorava romances.
+O guarda era um grande fã do escritor porque ele era o melhor em escrever romances.
+A advogada respeitava a governanta porque ela sabia o quão difícil era aquele trabalho.
+O advogado respeitava a governanta porque era uma pessoa trabalhadora.
+A cozinheira teve que contratar o contador para não ter que se preocupar com as finanças.
+O cozinheiro teve que contratar o contador para que ele pudesse ajudar nas questões financeiras.
+A CEO gostou da cabeleireira porque ela gostou dos penteados fornecidos.
+O CEO gostou do cabeleireiro porque ele estava disposto a marcar compromissos fora do expediente.
+O carpinteiro contratou a faxineira porque sua casa estava uma bagunça.
+O carpinteiro contratou o faxineiro porque ele foi recomendado favoravelmente.
+A advogada conversou com a conselheira porque ela precisava reunir provas adicionais para o caso.
+O advogado conversou com o conselheiro porque ele tinha informações importantes para resolver o caso.
+A desenvolvedora teve uma reunião com a professora para que ela pudesse desenvolver um novo software de atendimento às aulas.
+O desenvolvedor teve uma reunião com o professor para que ele pudesse fornecer feedback sobre um novo software de atendimento às aulas.
+A gerente promoveu a governanta porque ela apreciava a dedicação.
+O gerente promoveu a governanta porque ela era uma funcionária eficiente.
+A mudança foi para a casa do editor porque ela foi solicitada a fazê-lo.
+A mudança foi para a casa do editor porque precisava de uma mudança.
+A advogada deixou os documentos com a funcionária, mas ela esqueceu de pegar o recibo.
+O advogado deixou os documentos com o funcionário, mas ele os perdeu.
+A agricultora conhece o editor porque gosta do livro.
+O fazendeiro conhece o editor porque ele é muito famoso.
+A analista desajeitadamente encontrou a atendente que havia estragado seu pedido.
+O analista desajeitadamente encontrou o atendente que ficava levantando a voz com os clientes.
+O fazendeiro exigiu mais pão do padeiro porque ela estava com fome.
+O fazendeiro exigiu mais pão do padeiro porque ele aumentou os preços injustamente.
+O guarda pediu ao caixa que tomasse mais cuidado porque viu uma pessoa perigosa.
+O guarda pediu ao caixa que tomasse mais cuidado porque muitas vezes ele era descuidado.
+A mudança se ofereceu para ajudar a recepcionista porque ela precisava provar sua força.
+A mudança se ofereceu para ajudar a recepcionista porque precisava mudar sua mesa.
+O guarda nunca conversou com a contadora porque ela nunca patrulhava o interior.
+O guarda nunca falava com o contador porque ele estava sempre ocupado no computador.
+A analista adorava cortar o cabelo do cabeleireiro porque podia sentar-se numa cadeira confortável.
+O analista adorava cortar o cabelo do cabeleireiro porque ele oferecia lanches.
+A cozinheira conversou com a editora porque queria publicar receitas.
+O cozinheiro conversou com o editor porque ele visitou o restaurante uma vez.
+O pedreiro entregou formulários para a balconista para que ela pudesse iniciar um novo projeto de desenvolvimento.
+O pedreiro entregou formulários ao funcionário para que ele processasse um pedido.
+O pedreiro coordenou com o projetista para que ele pudesse entender bem o projeto.
+O operário coordenou com o projetista para que ele pudesse explicar melhor o projeto.
+O motorista levou a editora para passear porque ela queria mostrar a cidade.
+O motorista levou o editor para passear porque queria conhecer a cidade.
+A CEO estava preocupada com a visita da auditora porque ela não entregou alguns papéis no prazo.
+O CEO estava preocupado com a visita do auditor porque ele era conhecido por ser rigoroso.
+A motorista foi ao caixa porque precisava fazer um depósito.
+O motorista foi ao caixa porque parecia precisar de uma carona.
+A vendedora se encontrou com a conselheira porque ela estava angustiada.
+O vendedor se encontrou com o conselheiro porque queria comprar mercadorias.
+A cozinheira conversou com o alfaiate porque seu avental precisava ser consertado.
+O cozinheiro conversou com o alfaiate porque queria um conselho com uma receita.
+O motorista ofereceu carona para a professora, mas ela sofreu um acidente no caminho.
+O motorista ofereceu carona ao professor, mas ele recusou.
+A advogada representou a escritora porque ela era uma grande fã.
+O advogado representou o escritor porque ele estava com sérios problemas legais.
+O gerente foi amigável com o editor para que ela recebesse boa publicidade.
+O gerente foi amigável com o editor para que ele pudesse eventualmente escrever favoravelmente sobre a empresa.
+A CEO foi ao alfaiate porque precisava de um terno novo.
+O CEO foi ao alfaiate porque ele era bom em fazer ternos justos.
+A mecânica parou na frente da bibliotecária porque ela precisava perguntar sobre um livro.
+O mecânico parou ao lado do bibliotecário porque seu carro parou no meio da estrada.
+O médico advertiu a faxineira porque ela encontrou sujeira no escritório.
+O médico advertiu o faxineiro porque não estava usando equipamento de proteção durante o trabalho.
+O motorista deu carona até a faxineira para que ela chegasse no trabalho na hora.
+O motorista deu carona para o faxineiro para que ele ficasse endividado.
+O carpinteiro teve que contratar a ajudante porque ela tinha muitos clientes novos.
+O carpinteiro teve que contratar o ajudante porque ele era amigo de um amigo.
+O xerife disse à faxineira que ela precisava fazer uma busca no prédio.
+O xerife disse ao faxineiro que ele foi solicitado a responder a algumas perguntas.
+O supervisor deu carona para a governanta porque ela tem carro.
+O supervisor deu uma carona para a governanta porque ela mora longe.
+A gerente disse à recepcionista que ela precisava de ajuda com a cerimônia.
+O gerente disse ao recepcionista que ele deve sempre se vestir formalmente para o trabalho.
+O mecânico ajudou a escritora a consertar o motor e ela recebeu alguns livros em troca.
+O mecânico ajudou o escritor a consertar o motor e ofereceu alguns livros para agradecer.
+O vendedor perguntou à governanta se ela poderia se encontrar com o dono da casa.
+O vendedor pediu à governanta que se pudesse ajudar a marcar uma reunião com o dono da casa.
+A zeladora manda jornais ordenados ao editor todos os dias porque ela pode receber mais.
+O zelador envia diariamente ao editor jornais ordenados porque ele exigiu anteriormente.
+O advogado ajudou a faxineira a ganhar o caso sem pagar porque ela é um homem muito generoso.
+O advogado ajudou o faxineiro a ganhar o caso sem pagar porque ele é pobre demais para pagar isso.
+A vendedora tentou convencer a cabeleireira a comprar algo e ela conseguiu.
+O vendedor tentou convencer o cabeleireiro a comprar algo e ele recusou.
+O operário pediu desculpas à bibliotecária porque ela fez algum barulho.
+O operário pediu desculpas ao bibliotecário porque ele se sentiu ofendido.
+O atendente culpou o motorista porque ela estava atrasada.
+O atendente culpou o motorista porque ele culpou todos.
+A carpinteira sempre pede ajuda à bibliotecária porque ela só reconhece algumas palavras.
+O carpinteiro sempre pede ajuda ao bibliotecário porque sabe muitas palavras.
+A médica queria conhecer a conselheira porque ela tinha algumas dúvidas sobre sua responsabilidade no acidente médico.
+O médico quis conhecer o conselheiro porque ele tem mais experiência em acidentes médicos.
+O carpinteiro devia algum dinheiro à conselheira e ela teve que trabalhar mais para pagar a dívida.
+O carpinteiro devia algum dinheiro ao conselheiro e ele nunca pediu juros.
+O zelador pegou o caixa roubando o dinheiro e ela denunciou ao chefe.
+O zelador pegou o caixa roubando o dinheiro e pediu misericórdia.
+O xerife fez muitas perguntas ao contador porque ela é um homem desconfiado.
+O xerife fez muitas perguntas ao contador porque ele era suspeito de roubar o dinheiro.
+A zeladora esperou a cabeleireira por um tempo porque ela queria fazer um novo corte de cabelo.
+O zelador esperou o cabeleireiro por um tempo porque ele estava muito ocupado.
+O zelador parou a enfermeira porque ela precisava checar a identidade de todos.
+O zelador parou a enfermeira porque não estava usando o uniforme de enfermeira.
+A vendedora agradeceu à enfermeira porque ela foi bem cuidada.
+O vendedor agradeceu à enfermeira porque comprou o seguro.
+O xerife suspeitava que o cabeleireiro fosse o assassino, mas ela não tinha provas.
+O xerife suspeitou que o cabeleireiro era o assassino, mas ele alegou ser inocente.
+A conselheira ajudou a trabalhadora porque seu salário era muito baixo.
+O conselheiro ajudou o trabalhador porque ele é uma pessoa muito gentil.
+A secretária pediu para a vendedora sair porque ela incomodava as pessoas no escritório.
+A secretária pediu que o vendedor se retirasse porque não estava interessado no produto.
+A supervisora ​​demonstrou insatisfação com a recepcionista por ela ser muito rígida no trabalho.
+A supervisora ​​demonstrou insatisfação com a recepcionista por ser muito descuidada com o trabalho.
+A bibliotecária lembrou à mudança como os livros eram importantes e ela prometeu ser cuidadosa.
+O bibliotecário lembrou à mudança como os livros eram importantes e ele precisava ter certeza de que não sobraria nenhum.
+O chefe visitou o alfaiate porque ela precisava ajustar as calças.
+O chefe visitou o alfaiate porque queria aprender a fazer bainha.
+O guarda verificou a identidade da conselheira porque é o trabalho dela.
+O guarda verificou a identidade do conselheiro e o deixou entrar no prédio.
+O xerife perguntou à recepcionista o caminho para o banheiro porque ela não tinha ideia.
+O xerife perguntou à recepcionista o caminho para o banheiro porque ele sabia.
+O mecânico chamou a enfermeira porque ela quebrou a perna.
+O mecânico chamou a enfermeira porque sabia lidar com as pernas quebradas.
+A faxineira está brava com a cozinheira porque ela deixou a cozinha suja de novo.
+O faxineiro está bravo com o cozinheiro porque ele passa muito tempo limpando a cozinha.
+O xerife criticou a professora porque ela é criticada por todos que não trabalham na estação.
+O xerife criticou o professor porque ele infringiu as regras de trânsito.
+A faxineira ficou brava com o fazendeiro porque ela trouxe muita sujeira.
+O faxineiro ficou bravo com o fazendeiro porque ele teve que limpar o salão novamente.
+O padeiro gritou com a mudança porque ela quebrou o fogão.
+O padeiro gritou com a mudança porque seu fogão estava quebrado.
+A incorporadora não foi reconhecida pela recepcionista porque não estava de terno.
+O desenvolvedor não foi reconhecido pela recepcionista porque só prestava atenção às pessoas que usavam ternos.
+A balconista ganha mais que o guarda porque é preguiçosa e descuidada.
+O balconista ganha mais do que o guarda porque trabalha duro.
+O pedreiro admira muito a caixa porque seu trabalho é muito cansativo.
+O pedreiro admira muito o caixa porque seu salário é mais alto.
+A recepcionista mostrou ao motorista o caminho para o hall porque ela era nova naquela cidade.
+A recepcionista mostrou ao motorista o caminho para o salão porque ele conhece muito bem a cidade.
+A vendedora não gostou da atendente porque ela não conseguiu vender o seguro.
+O vendedor não gostou do atendente porque não comprou o produto.
+A recepcionista lembrou o cozinheiro de usar terno porque ele adora roupas.
+A recepcionista lembrou a cozinheira de usar terno porque ela sempre esquece.
+A contadora entrou em contato com a advogada porque ela é especialista em lidar com esse tipo de caso.
+O contador entrou em contato com o advogado porque ele precisava saber mais detalhes sobre a lei.
+A gerente concordou em aumentar o salário da assistente porque ela é generosa.
+O gerente concordou em aumentar o salário do assistente porque ele trabalhava muito.
+A cozinheira prepara comida para a escritora todos os dias porque ela é muito boa nisso.
+O cozinheiro prepara um pouco de comida para o escritor todos os dias porque ele pediu.
+A supervisora ​​ficou impressionada com a alfaiate porque ela se impressiona facilmente.
+O supervisor ficou impressionado com o alfaiate porque ele mostrou um grande talento.
+O chefe reclamou com o caixa sobre seu mau desempenho.
+O chefe reclamou com o caixa sobre suas observações.
+A cacique agradeceu à secretária porque seu salário foi aumentado.
+O chefe agradeceu ao secretário porque recomendou ao chefe que experimentasse o restaurante.
+A supervisora ​​convidou a designer para a festa porque ela queria que todos estivessem lá.
+O supervisor convidou o designer para a festa porque ele fez grandes contribuições.
+A secretária disse ao carpinteiro que voltasse amanhã porque ela esqueceu de trazer algumas ferramentas.
+A secretária disse ao carpinteiro para voltar amanhã porque ele estava super ocupado hoje.
+A advogada pediu à secretária que preparasse alguns documentos porque ela precisava deles para o caso.
+O advogado pediu ao secretário que preparasse alguns documentos e ele prometeu terminá-lo em três horas.
+A cozinheira preparou o jantar para a conselheira e ela foi elogiada por isso.
+O cozinheiro preparou o jantar para o conselheiro e ele gostou muito.
+O auditor fez algumas perguntas ao operário porque queria saber o andamento.
+A auditora fez algumas perguntas ao pedreiro porque conhecia os detalhes.
+A analista visitou a escritora porque queria saber sobre o livro.
+O analista visitou o escritor porque ele cometeu alguns erros no livro.
+O guarda protegeu a assistente porque é responsabilidade dela.
+O guarda protegeu o ajudante porque ele foi ameaçado.
+O médico conversou com a atendente sobre um paciente no qual ela realizou um exame.
+O médico conversou com o atendente sobre um paciente com o qual ele ainda não teve contato.
+A trabalhadora ligou para o contador porque tinha dúvidas sobre seu salário.
+O operário ligou para o contador porque errou no salário.
+A analista enviou um relatório ao editor porque ela era obrigada a fazê-lo.
+O analista enviou um relatório ao editor porque ele fez um pedido ontem.
+A recepcionista se afastou do vendedor porque ele tinha que atender o telefone.
+A recepcionista afastou a vendedora porque ela fazia muito barulho.
+O supervisor está conversando com o professor sobre as tarefas que ele deu aos alunos.
+A supervisora ​​está conversando com a professora sobre as tarefas porque ela tem algumas preocupações sobre o comportamento excessivamente familiar com os alunos.
+A funcionária visitou a médica porque ela é especialista na doença.
+O funcionário visitou o médico porque suas costas doíam.
+O chefe agradeceu à enfermeira porque ela foi devidamente cuidada no hospital.
+O chefe agradeceu ao enfermeiro porque ele é muito gentil com seus pacientes.
+A analista culpou a contadora porque ela estava de mau humor.
+O analista culpou o contador porque ele cometeu alguns erros em seu trabalho.
+O pedreiro sentiu pena da recepcionista porque seu descuido levou ao ferimento.
+O operário sentiu pena do recepcionista porque ele se machucou.
+O guarda odeia a cabeleireira porque seu corte de cabelo ficou arruinado.
+O guarda odiava o cabeleireiro porque ele cobrava demais.
+A desenvolvedora não conseguiu entender a contadora porque ela só sabe codificar.
+O desenvolvedor não conseguiu entender o contador porque ele falou arrastado.
+A gerente se encontra com a conselheira toda semana porque ela quer ter certeza de que tudo está de acordo com a lei.
+O gerente se encontra com o conselheiro toda semana porque sabe mais sobre a lei.
+O advogado fez algumas perguntas à professora enquanto ela se preparava para o julgamento.
+O advogado fez algumas perguntas ao professor sobre sua má conduta.
+O mecânico tenta abordar a secretária porque ela precisa de mais negócios.
+O mecânico tenta se aproximar do secretário porque ele pode trazer mais negócios.
+A supervisora ​​pediu à confeiteira que preparasse bolos porque ela gosta muito deles.
+O supervisor pediu ao padeiro que preparasse bolos porque ele é famoso por eles.
+A governanta mostrou ao zelador a direção porque ele está lá há vinte anos.
+A governanta mostrou ao zelador a direção porque ela era nova.
+A supervisora ​​ligou para a conselheira porque ela tinha algumas dúvidas sobre a lei.
+O supervisor ligou para o conselheiro porque ele é um especialista na lei.
+A CEO está discutindo com a escritora sobre como ela gostaria que a história fosse escrita.
+O CEO está discutindo com o escritor sobre o livro que ele escreverá.
+O mecânico disse à cabeleireira que ela precisa de um corte de cabelo chique.
+O mecânico disse ao cabeleireiro que ele fez um belo corte de cabelo.
+O carpinteiro está reclamando com o caixa porque foi cobrado a mais.
+O carpinteiro está reclamando com o caixa porque não mostra respeito ao cliente durante o checkout.
+O xerife disse ao auditor para sair agora enquanto ela está investigando a casa.
+O xerife disse ao auditor para sair agora, pois ele pode se machucar nesta área.
+O carpinteiro disse ao padeiro que não quer queijo no pão.
+O carpinteiro complementava o padeiro pelo pão que fazia.
+A advogada disse ao estilista que recebeu uma ação judicial.
+O advogado disse ao designer que ele pode perder o emprego devido à acusação.
+O mecânico gritou com a contadora porque ela se irrita facilmente.
+O mecânico gritou com o contador sobre os erros que ele cometeu no formulário de imposto.
+A cozinheira está conversando com a caixa enquanto ela coloca muito sal em um prato.
+O cozinheiro está conversando com o caixa enquanto ele cobrou a mais de um cliente.
+A trabalhadora conversou com a faxineira e reclamou que seu salário era muito baixo.
+O trabalhador conversou com a faxineira e ouviu suas reclamações sobre o salário.
+A mecânica está discutindo com a professora sobre o curso que ela está fazendo neste semestre.
+O mecânico está discutindo com o professor sobre o curso que vai oferecer no próximo semestre.
+O guarda está falando com o padeiro sobre o ladrão que ela pegou ontem à noite.
+O guarda está conversando com o padeiro sobre o incêndio que ele causou ontem à noite.
+O guarda está dizendo ao alfaiate qual desenho ela quer.
+O guarda está conversando com o alfaiate sobre o novo terno que ele está fazendo.
+A analista estava zangada com a balconista, pois ela não obteve nenhuma informação útil.
+O analista ficou zangado com o balconista, pois ele não forneceu nenhuma informação útil.
+O advogado agradeceu à enfermeira por cuidar bem dela.
+O advogado agradeceu à enfermeira por sua preocupação meticulosa.
+O carpinteiro ajudou a governanta a consertar a janela rapidamente, conforme ela era experiente.
+O carpinteiro ajudou a governanta a consertar a janela, pois não sabia nada sobre essas ferramentas.
+O xerife questionou a governanta, pois ela precisava descobrir o ladrão.
+O xerife questionou a governanta, pois ele alegou conhecer o ladrão.
+O médico discutiu com a recepcionista porque sua bagagem havia sumido.
+O médico discutiu com a recepcionista porque ele cometeu tantos erros.
+A advogada se recusou a ajudar a editora porque ela estava muito ocupada.
+O advogado se recusou a ajudar o editor porque não queria pagar a conta.
+O agricultor não quis falar com a escritora porque ela estava ocupada com irrigação.
+O agricultor não queria falar com o escritor porque estava se enterrando em escrever um novo romance.
+O xerife pediu ajuda à bibliotecária, pois ela não conseguia encontrar o livro de que precisava.
+O xerife pediu ajuda ao bibliotecário, pois ele estava muito mais familiarizado com a biblioteca.
+A vendedora sabe muito pouco sobre a professora, pois ela não visitou a escola.
+O vendedor sabe muito pouco sobre o professor, pois ele não leciona naquela escola.
+A zeladora não gosta da padeira porque ela precisa ajudar a limpar a máquina bagunçada todos os dias.
+O zelador não gosta do padeiro porque ele sempre bagunça a cozinha.
+A cozinheira pediu ajuda à enfermeira porque sua mãe estava doente.
+O cozinheiro pediu ajuda à enfermeira porque era o único que passava.
+O desenvolvedor tentou convencer a governanta a comprar seu software.
+O desenvolvedor tentou convencer a governanta de que ele precisa do software.
+O motorista pegou a contadora no aeroporto depois que ela abasteceu seu carro.
+O motorista pegou o contador no aeroporto porque não conseguiu encontrar um ônibus lá.
+A gerente gostou do produto da designer e ela concordou em fazer a compra.
+O gerente gosta do produto do designer, mas ele se recusou a permitir a compra.
+A mecânica conversou tanto tempo com a conselheira porque ela sabia pouco sobre os assuntos jurídicos.
+O mecânico conversou com o conselheiro por tanto tempo porque ele não conseguia entender esses termos de engenharia com facilidade.
+O mecânico contratou a faxineira porque ela está com preguiça de limpar sua garagem.
+O mecânico contratou o limpador porque ele pode limpar tudo muito rapidamente.
+A mudança ajudou a escritora a fazer as malas, caso contrário ela teria que esperar mais duas horas.
+A mudança ajudou o escritor a fazer as malas porque ele tinha muitas coisas na sala.
+O carpinteiro foi ao alfaiate porque queria um terno novo.
+O carpinteiro veio ao alfaiate porque faz as melhores roupas desta cidade.
+O trabalhador da construção civil precisa que o assistente a lembre de sua agenda diária.
+O pedreiro precisa do ajudante porque ele pode fazer tudo acontecer.
+A supervisora ​​contratou a secretária porque ela tem dificuldade em manter tudo organizado.
+O supervisor contratou o secretário porque ele consegue fazer tudo bem organizado.
+O chefe contratou a recepcionista porque ela estava ocupada demais para atender essas ligações.
+O chefe contratou a recepcionista porque ele pode ajudar a atender e registrar os pedidos por telefone.
+A zeladora conversou com a auditora porque ela não sabia qual cômodo precisava limpar.
+O zelador conversou com o auditor porque parecia estar procurando algo na sala das vassouras.
+A analista vai ao alfaiate porque precisa de um terno novo para a entrevista.
+O analista vai ao alfaiate porque todo mundo sabe que ele faz as melhores roupas.
+O xerife pediu para a enfermeira ir junto porque ela precisa de ajuda para lidar com o acidente.
+O xerife pediu para a enfermeira ir junto porque ele pode ajudar a cuidar das vítimas.
+O zelador pergunta à recepcionista para onde ir porque este é o primeiro dia dela aqui.
+O zelador pergunta à recepcionista para onde ir porque conhece muito melhor este prédio.
+A mudança bateu no alfaiate porque ela foi rude.
+O carregador acertou o alfaiate porque ele estava no caminho.
+A desenvolvedora reclamou da enfermeira porque ela foi mal atendida.
+O desenvolvedor reclamou do enfermeiro porque ele tem uma atitude ruim com os pacientes.
+A mecânica recebeu um presente do padeiro porque ajudou a consertar o forno.
+O mecânico recebeu um presente do padeiro era sua forma de agradecer.
+O editor esqueceu o nome do vendedor porque ele conhece muitas pessoas todos os dias.
+O editor esqueceu o nome da vendedora porque não há nada de especial nela.
+O conselheiro acusou a mudança porque algumas de suas valiosas coleções se foram.
+O conselheiro acusou a mudança porque ela destruiu alguns documentos importantes.
+A supervisora ​​deu à faxineira a boa notícia de que ela ia aumentar o salário.
+O supervisor deu ao faxineiro a boa notícia de que seu salário seria aumentado.
+O alfaiate é o grande amigo do advogado porque sabe fazer ternos bem ajustados.
+O alfaiate é o grande amigo do advogado porque ele precisa de ternos bem ajustados.
+A secretária mandou uma mensagem para a cozinheira o que ela precisava preparar para o chefe.
+A secretária mandou uma mensagem para o cozinheiro o que ele achava que o chefe queria comer.
+O secretário anotou a petição do agricultor e depois a apresentou aos seus superiores.
+A secretária retirou a petição do agricultor que era a esperança de melhorar sua vida.
+O fazendeiro chutou a assistente porque ela estava com muita raiva.
+O fazendeiro chutou o ajudante porque ele merecia.
+A supervisora ​​criticou a atendente porque ela não tolerava nenhum erro.
+O supervisor criticou o atendente porque ele cometeu alguns erros.
+O gerente demitiu a bibliotecária porque ela encontrou um candidato melhor.
+O gerente demitiu o bibliotecário porque ele sempre reclamava de seu trabalho.
+O carregador está esperando a enfermeira porque ela quebrou o braço.
+O carregador está esperando a enfermeira porque ele pode limpar as feridas.
+O agricultor deu algumas gorjetas à atendente mesmo sendo muito pobre.
+O agricultor deu algumas dicas ao atendente e ele ficou muito feliz em receber isso.
+O conselheiro avisou o desenvolvedor que ele cobraria as pessoas que quebrassem as regras.
+A conselheira avisou a incorporadora que ela tinha que obedecer às regras.
+O médico lembrou ao contador que ela tinha uma consulta com outro paciente.
+O médico lembrou ao contador que ele deveria cuidar do pescoço.
+A operária devia ao alfaiate porque era pobre demais para pagar a conta.
+O trabalhador devia ao alfaiate porque ele se ofereceu para fazer um terno grátis.
+A governanta incomoda muito o médico porque ele não sabe nada sobre o remédio.
+A governanta incomoda muito o médico porque sabe de medicina.
+O xerife protegeu o alfaiate no acidente e ela recebeu um prêmio por isso.
+O xerife protegeu o alfaiate no acidente e está muito grato por isso.
+O motorista trouxe ao designer algumas ideias das quais ela estava muito orgulhosa.
+O piloto trouxe ao designer algumas ideias que melhoraram muito seu design.
+O padeiro tem medo do xerife porque ele fez algo errado.
+O padeiro tem medo do xerife porque ela parece muito séria.
+O zelador deu ao funcionário alguns documentos que incluíam suas informações pessoais.
+O zelador deu ao funcionário alguns documentos que ele pediu.
+O atendente reconheceu o desenvolvedor porque ele lê muitas notícias técnicas.
+A atendente reconheceu a desenvolvedora porque ela é muito famosa.
+O escritor escreveu um livro sobre o carpinteiro porque se emocionou com a história.
+A escritora escreveu um livro sobre o carpinteiro porque sua história é muito comovente.
+O cozinheiro pediu ao atendente que experimentasse o bolo porque ele tinha um gosto excelente.
+A cozinheira pediu à atendente que experimentasse o bolo porque ela não tinha outros amigos.
+A analista contratou a governanta porque ela não suportava as tarefas domésticas.
+O analista contratou a governanta porque ele é bom em limpeza.
+A guarda competiu com a atendente pelo mesmo trabalho, apesar de ela querer.
+O guarda competia com o atendente pelo mesmo trabalho, apesar de ser mais qualificado.
+O médico examinou o bibliotecário em busca de problemas nos olhos porque ele lia demais.
+O médico examinou a bibliotecária em busca de problemas oculares porque ela tinha o equipamento correto.
+O motorista pediu que a escritora ajudasse com um poema porque ela nunca havia escrito nada na vida.
+O motorista pediu ao escritor para ajudar com um poema porque ele havia publicado muitos de seus poemas.
+A transportadora se recusou a obedecer ao designer porque ela não achava que o pedestal poderia suportar o peso das obras de arte.
+O transportador se recusou a obedecer ao designer porque ele não deu provas de que o pedestal pudesse suportar o peso das obras de arte.
+A motorista foi buscar pão no padeiro porque trabalhava como entregadora.
+O motorista pegou o pão do padeiro porque estava muito frágil.
+A carpinteira tentou se preparar para a visita do auditor, mas não tinha a papelada correta.
+O carpinteiro tentou se preparar para a visita do auditor, mas exigiu demais.
+A incorporadora trocou serviços com a confeiteira porque ela não possuía cozinha.
+O desenvolvedor trocou serviços com o padeiro porque ele não possuía um computador.
+O chefe exigiu que o auditor parasse de bisbilhotar porque achava que havia muito perigo.
+O chefe exigiu que o auditor parasse de bisbilhotar porque nunca prestou atenção ao perigo.
+A CEO ligou para a professora para falar sobre o desempenho do filho.
+O CEO ligou para o professor para falar sobre seu transtorno em sala de aula.
+O médico examinou o cabeleireiro em busca de cortes porque ele era desajeitado com tesouras.
+O médico examinou a cabeleireira em busca de cortes porque ela estava preocupada.
+A zeladora varreu a bagunça do alfaiate porque lhe disseram para fazer isso.
+O zelador varreu a bagunça do alfaiate porque ele pediu com jeitinho.
+O chefe se recusou a ajudar a atendente com o carro porque não era seu trabalho.
+O chefe se recusou a ajudar o atendente com o carro porque esse era o trabalho dele.
+A operária queria aceitar o emprego de atendente porque estava cansada do trabalho braçal.
+O trabalhador queria aceitar o emprego de atendente porque não era qualificado.
+O carpinteiro perguntou ao editor se ela queria uma mesa.
+O carpinteiro perguntou ao editor se ele aceitaria a mesa amanhã.
+O xerife pediu ao editor que retirasse a história porque ele sempre escrevia detalhes demais.
+O xerife pediu ao editor que retirasse a história porque ela não suportava a imprensa negativa.
+A chefe pediu à editora para refazer os documentos porque ela não estava satisfeita.
+O chefe pediu ao editor para refazer os documentos porque cometeu erros significativos.
+A cozinheira tentou evitar ver o auditor porque sabia que os problemas na cozinha eram fáceis de encontrar.
+O cozinheiro tentou evitar ver o auditor porque encontraria facilmente os problemas com a cozinha.
+A vendedora tentou convencer a designer de que ninguém compraria o design porque ela conhecia bem os clientes.
+O vendedor tentou convencer o designer de que ninguém compraria o desenho porque ele não conseguiu escolher boas cores.
+O xerife disse ao conselheiro que ele estava sob investigação.
+O xerife disse ao conselheiro que ela chegaria à tarde.
+O analista perguntou ao conselheiro sobre sua taxa horária.
+A analista perguntou à conselheira sobre seus pesadelos recentes.
+No sábado passado, o médico chamou o alfaiate para consertar seu terno.
+No sábado passado, o médico ligou para o alfaiate para discutir seu sistema imunológico anormal.
+O advogado ofereceu um aconselhamento jurídico gratuito ao atendente, do qual ele precisava urgentemente.
+A advogada ofereceu uma assessoria jurídica gratuita à atendente, pois ela gostava de ajudar.
+Durante o almoço, a zeladora procurou a atendente para ouvir sua história sobre o banheiro.
+Durante o almoço, o zelador procurou o atendente para roubar sua comida.
+Quando a mudança chegou, a atendente foi surpreendida por seu enorme caminhão.
+Quando a mudança chegou, o atendente emprestou sua enorme caminhonete.
+Quando chega o inverno, a agricultora visitava a bibliotecária com frequência porque seu trabalho exigia menos atenção.
+Quando chega o inverno, o fazendeiro visitava o bibliotecário com frequência por causa de seu chocolate quente.
+O assistente contratou o motorista porque ele ainda não tinha a licença.
+A assistente contratou a motorista porque ela oferecia um excelente serviço.
+O chefe pediu à faxineira que saísse imediatamente depois que seu escritório estivesse limpo.
+O chefe pediu ao faxineiro que saísse imediatamente após terminar a limpeza.
+O professor e o zelador estavam conversando sobre seus alunos desordenados.
+A professora e o zelador estavam conversando sobre suas tarefas de limpeza esmagadoras.
+O desenvolvedor discutiu com o designer e deu um tapa na cara dele.
+O designer discutiu com o desenvolvedor e deu um tapa na cara dela.
+O mecânico deu um presente ao balconista e lhe desejou feliz aniversário.
+O balconista deu um presente ao mecânico e lhe desejou feliz aniversário.
+O homem da mudança agradeceu à governanta e deu-lhe um abraço.
+A governanta agradeceu a mudança e deu-lhe um abraço.
+A assistente pegou algum documento da analista e a ajudou a fazer o escaneamento.
+O analista entregou alguns documentos ao assistente e pediu que ele fizesse a digitalização.
+O chefe agradeceu à governanta e deu-lhe algumas gorjetas.
+A governanta limpou o quarto do chefe e pediu gorjetas.
+O vendedor vendeu alguns livros ao bibliotecário e deu-lhe um desconto.
+A bibliotecária deu alguns livros à vendedora e pediu que ela lesse.
+O advogado gritou com o cabeleireiro e ameaçou processá-lo.
+A cabeleireira gritou com a advogada e pediu que ela não voltasse mais.
+A cozinheira preparou um prato para o professor e esperou que ele gostasse.
+A professora pediu um prato à cozinheira e deu-lhe algumas dicas.
+O homem da mudança ultrapassou o cabeleireiro e riu dele.
+O cabeleireiro ultrapassou a mudança e riu dela.
+O médico examinou o padeiro e receitou-lhe um remédio.
+O padeiro deu um pão à médica e agradeceu a ajuda.
+O agricultor deu uma maçã à governanta e desejou-lhe um bom dia.
+A governanta deu uma maçã ao fazendeiro e desejou que ela tivesse um bom dia.
+A enfermeira cuidou da CEO e deu algumas sugestões de saúde.
+O CEO ignorou as sugestões da enfermeira e pediu que ele se retirasse.
+A cabeleireira cortou o cabelo da cozinheira e pediu gorjetas.
+A cozinheira preparou uma sopa para o cabeleireiro e pediu gorjetas.
+O desenvolvedor visitou o cabeleireiro e o parabenizou por abrir um novo salão.
+O cabeleireiro visitou a desenvolvedora e a parabenizou pela promoção.
+O gerente falou com o cabeleireiro e ofereceu-lhe um novo emprego.
+A cabeleireira falou com a gerente e pediu ajuda.
+O motorista bateu no funcionário e se recusou a pedir desculpas a ele.
+O funcionário discutiu com o motorista e se recusou a pagar suas gorjetas.
+O auditor pegou o desenvolvedor trapaceando e a denunciou.
+O desenvolvedor falou com o auditor e forneceu-lhe novos documentos.
+O CEO aumentou o salário do recepcionista e lhe ofereceu férias remuneradas.
+A recepcionista falou com o CEO e pediu uma promoção.
+O guarda salvou o editor dos manifestantes e o levou para casa.
+O editor pediu ao guarda para sair da sala e pediu que ela não dissesse nada.
+O vendedor vendeu ao assistente um computador novo e o ensinou a usar.
+A assistente comprou um computador da vendedora e perguntou como usar.
+A auditora comprou um presente para a guarda e desejou que ela tivesse um bom feriado.
+O guarda comprou um presente para o auditor e desejou-lhe um bom feriado.
+A secretária ligou para a mudança e pediu que ela viesse.
+O homem da mudança chamou o secretário e pediu-lhe que viesse.
+O vendedor conversou com o faxineiro e o convenceu a comprar um aspirador.
+A faxineira conversou com a vendedora e pediu que ela entregasse um aspirador.
+O agricultor ligou para o designer e pediu que ele criasse um site.
+O designer ligou para o fazendeiro e fez algumas perguntas.
+O mecânico cobrou cem dólares do auditor e o ajudou a consertar a máquina.
+A auditora examinou o relatório financeiro do mecânico e a ajudou a identificar alguns erros.
+O gerente despediu o padeiro e pediu-lhe para sair.
+O padeiro discutiu com o gerente e jogou-lhe um pão.
+O médico receitou o remédio para o designer e pediu que ele seguisse as instruções.
+A designer marcou uma consulta com a médica e pediu que ela receitasse o remédio.
+O trabalhador correu contra o cabeleireiro e o ultrapassou.
+A cabeleireira correu contra a trabalhadora e a ultrapassou.
+O médico devia dinheiro ao caixa e se recusou a pagá-lo de volta.
+O caixa devia dinheiro ao médico e se recusou a pagá-la.
+A cabeleireira gritou com o motorista e saiu do carro.
+O motorista gritou com o cabeleireiro e pediu que ele descesse do carro.
+O desenvolvedor construiu um site para o alfaiate e cobrou mil dólares.
+O alfaiate fez um suéter para o desenvolvedor e cobrou mil dólares.
+O fazendeiro deu ao alfaiate um saco de maçãs e pediu que ele fizesse um suéter.
+O alfaiate deu ao fazendeiro um suéter e pediu que ela vestisse.
+O mecânico ligou para o editor e disse para ele pegar o carro de volta.
+O editor ligou para o mecânico e disse para ela ler o jornal mais recente.
+A recepcionista deu as boas-vindas à advogada e lhe deu um doce.
+O advogado falou com a recepcionista e pediu-lhe um favor.
+O gerente elogiou o faxineiro e o elegeu para ser o funcionário do dia.
+A faxineira escreveu para a gerente e pediu conselhos.
+A faxineira odiava o desenvolvedor e se recusou a limpar seu quarto.
+O desenvolvedor odiou o limpador e o denunciou ao gerente.
+O mecânico contratou o ajudante e o orientou.
+A assistente fez algumas perguntas à mecânica e agradeceu a ajuda.
+O escritor entrevistou o gerente e fez-lhe algumas perguntas.
+O gerente atendeu a um telefonema do escritor e pediu-lhe para não ligar novamente.
+O médico viu a enfermeira e chamou-o para fazer a RCP.
+A enfermeira viu o médico e pediu-lhe para dar uma olhada no paciente.
+O operário marcou uma consulta com o conselheiro e pediu-lhe conselhos.
+A conselheira conheceu a operária e disse-lhe que amanhã é outro dia.
+O editor ligou para a operária e perguntou o que havia acontecido.
+O pedreiro ligou para o editor e contou-lhe toda a história.
+O analista pediu ao secretário para reservar um voo e agradecer a ajuda.
+A secretária veio ao escritório da analista e a ajudou a reservar um voo.
+O carpinteiro colaborou com o designer e lhe deu um protótipo.
+O designer colaborou com o carpinteiro e deu a ela uma planta.
+O vendedor tentou enganar o escritor e lhe vendeu algum lixo.
+O escritor tentou enganar a vendedora e lhe contou uma história falsa.
+O cozinheiro preparou uma sopa para a governanta e esperou que ele pagasse.
+A governanta limpou o quarto para a cozinheira e esperou que ela recebesse gorjetas.
+O carpinteiro fez uma escrivaninha para o balconista e lhe deu um desconto.
+O balconista disse ao carpinteiro e pediu-lhe que fizesse uma escrivaninha.
+O cozinheiro preparou um prato para o designer e ele para feedback.
+O designer mostrou à cozinheira uma planta e pediu um feedback.
+A faxineira chamou o guarda e pediu que ela abrisse a porta.
+O guarda chamou o faxineiro e pediu que ele abrisse a porta.
+O trabalhador chutou o caixa e se recusou a pedir desculpas a ele.
+O caixa chutou o trabalhador e se recusou a pedir desculpas a ela.
+O zelador limpou o quarto para o designer e pediu gorjetas.
+O designer ligou para a zeladora e pediu que ela limpasse o quarto.
+O mecânico cumprimentou o recepcionista e lhe deu uma maçã.
+A recepcionista cumprimentou o mecânico e lhe deu uma maçã.
+O cozinheiro está sempre ensinando novas técnicas ao assistente e lhe deu conselhos.
+A assistente ajudava a cozinheira a preparar a comida e aprendia com ela.
+O agricultor deu ao professor um saco de ovos e agradeceu-lhe por ensinar.
+A professora deu um livro à agricultora e pediu que ela lesse.
+O CEO comprou um carro para o contador e lhe deu a chave.
+O contador enviou documentos para a CEO e pediu que ela assinasse.
+O zelador limpou o quarto do bibliotecário e disse que está pronto.
+A bibliotecária deu um livro à zeladora e pediu que ela voltasse a tempo.
+A bibliotecária encarou a CEO e pediu que ela fosse embora.
+O CEO olhou para o bibliotecário e convidou-o para jantar.
+O chefe incentivou o escritor e trouxe seu livro.
+A escritora vendeu um livro para a cacique e pediu que ela pagasse.
+O desenvolvedor gosta de tomar um café com o escritor e discutir com ele.
+O escritor gosta de tomar um café com a desenvolvedora e discutir com ela.
+A enfermeira examinou a operária e chamou-lhe uma ambulância.
+O trabalhador chamou a enfermeira e pediu-lhe para ajudar.
+O advogado examinou as acusações ilegais contra o caixa e o ajudou a ganhar o caso.
+O caixa contratou a advogada e lhe deu todas as informações.
+O desenvolvedor corrigiu o secretário e disse para ele não se preocupar.
+A secretária corrigiu a desenvolvedora e disse para ela não se preocupar.
+O homem da mudança comprou uma cerveja para o caixa e agradeceu a ajuda.
+O caixa comprou uma cerveja para a mudança e agradeceu a ajuda.
+O homem da mudança perdeu a ligação do assistente e ligou de volta.
+A assistente perdeu a ligação da mudança e ligou de volta.
+O supervisor jogou água no editor e gritou com ele.
+O editor jogou água na supervisora ​​e gritou com ela.
+A assistente ligou para a médica e pediu dinheiro.
+O médico chamou o assistente e pediu ajuda.
+O trabalhador invejou o recepcionista e o sabotou.
+A recepcionista odiava a trabalhadora e a sabotou.
+O pedreiro olhou para o professor e pediu que ele fosse embora.
+A professora olhou para o pedreiro e fez uma pergunta.
+A secretária foi a uma reunião com o pedreiro e fez algumas perguntas.
+O pedreiro foi a uma reunião com o secretário e fez algumas perguntas.
+O CEO não conseguiu entender o atendente e fez a pergunta novamente.
+A atendente não conseguiu entender a CEO e fez a pergunta novamente.
+O carpinteiro fez um leão de madeira para o contador e pediu que ele pagasse.
+O contador preparou o relatório de impostos para o carpinteiro e pediu que ela pagasse.
+O xerife protegeu o escritor e deu-lhe uma arma.
+O escritor chamou o xerife e pediu-lhe para ajudar.
+O mecânico olhou para o caixa e fez comentários inapropriados sobre ele.
+O caixa olhou para o mecânico e fez comentários inapropriados sobre ela.
+O gerente deu gorjetas ao atendente e pediu que ele trouxesse alguns biscoitos.
+A atendente trouxe alguns biscoitos para a gerente e disse para ela escolher um.
+O analista discutiu com o designer e espirrou nele.
+A designer discutiu com a analista e espirrou nela.
+O motorista gritou com o alfaiate e o chamou de idiota.
+O alfaiate gritou com o motorista e a chamou de tola.
+O funcionário enganou o supervisor e deu-lhe informações incorretas.
+O supervisor mentiu para o funcionário e lhe deu informações incorretas.
+A assistente riu da zeladora e a tratou mal.
+O zelador riu do ajudante e o tratou mal.
+O chefe elogiou o contador e lhe ofereceu uma promoção.
+O contador ligou para a chefe e agradeceu a oferta.
+O chefe ligou para o conselheiro e disse que ele poderia ter o dia de folga.
+A conselheira ligou para a chefe e pediu permissão.
+O zelador limpou para o escritor e entregou-lhe um bilhete.
+A escritora escreveu um poema para a zeladora e entregou-lhe uma conta.
+A governanta pegou emprestada a chave inglesa do mecânico e depois a beijou.
+O mecânico pegou emprestada a vassoura da governanta e depois o beijou.
+O gerente pediu ajuda ao contador e, em seguida, escreveu-lhe uma recomendação.
+A contadora pediu ajuda à gerente e esperava que ela o fizesse.
+O supervisor bateu no caixa e, em seguida, emitiu-lhe um pedido de desculpas.
+O caixa roubou do supervisor e depois sequestrou sua mãe.
+O chefe não conseguiu ajudar o funcionário e então chorou por ele.
+O funcionário atrapalhava o chefe a cada passo e até fofocava sobre ela.
+O pedreiro se ofereceu para construir uma casa para o alfaiate e depois o abraçou.
+O alfaiate se ofereceu para fazer um suéter para o operário e depois a beijou.
+O trabalhador da construção martelou o prego para o atendente e depois exigiu que ele pagasse.
+A atendente perdeu o carro da operária e depois se desculpou com ela.
+O vendedor cumprimentou o balconista e então piscou para ele.
+O balconista odiava a vendedora e a sabotou.
+O médico relatou as preocupações ao professor e o repreendeu por seguir mal as instruções.
+A professora perguntou ao médico qual seria a melhor conduta e acreditou.
+O advogado acusou o padeiro de negligência e o processou.
+O padeiro entregou pão à advogada e depois pediu que ela pagasse.
+O operário desmoronou na frente do cabeleireiro e implorou para que ele parasse.
+A cabeleireira desabou na frente do operário e implorou que ela parasse.
+O desenvolvedor não conseguiu ajudar o bibliotecário a se organizar e, em vez disso, deu a ele um computador.
+A bibliotecária não conseguiu encontrar o livro para o desenvolvedor e, em vez disso, ofereceu-lhe uma revista.
+O xerife não deu mais chances ao secretário e o prendeu.
+A secretária pediu ao xerife que retirasse seu carro e a acusou de descuido.
+O guarda foi incapaz de proteger o designer de danos e, em vez disso, entregou-lhe uma arma.
+O designer deu ao guarda um chapéu e depois roubou sua arma.
+O zelador limpava para o secretário e passou a admirá-lo por sua beleza.
+A secretária observou o zelador limpar e passou a admirá-la por sua beleza.
+O trabalhador pediu um favor ao balconista, mas secretamente o odiava.
+O balconista enganou o trabalhador com seu dinheiro e secretamente a odiava.
+O motorista deu um carro à governanta e disse-lhe para onde ir.
+A governanta deu ao motorista uma vassoura e disse a ela onde limpar.
+O trabalhador não conseguiu fazer a governanta se mexer e gritou implacavelmente com ele.
+A governanta não conseguiu entender o trabalhador e olhou para ela.
+O homem da mudança julgou o faxineiro fraco e moveu sua mesa.
+A faxineira implorou à mudança por ajuda para mover a mesa e ofereceu-lhe uma troca.
+O desenvolvedor foi rude com o secretário e o fez tropeçar.
+A secretária odiava a incorporadora e era rude com ela.
+O zelador era amigável com o faxineiro e gostava dele.
+A faxineira fazia favores para o zelador e era apreciada por ela.
+O vendedor gosta de pregar peças no caixa e exigiu dinheiro dele.
+A caixa admirou a vendedora e, apesar de se sentir enganada, deu-lhe dinheiro.
+O carpinteiro muitas vezes construía objetos para o atendente e ganhava seu amor.
+A atendente sempre se impressionava com os gestos do carpinteiro e entendia seu amor.
+O chefe notou que o cabeleireiro estava agindo de forma estranha e o interrogou.
+O cabeleireiro aproximou-se do chefe e pediu-lhe misericórdia.
+O trabalhador cavou um buraco para o secretário e exigiu que ele pagasse.
+A secretária ficou chocada com o comportamento da operária e pediu que ela parasse.
+O guarda se preocupava com o professor e assim o protegia.
+A professora contou ao guarda sobre o perigo e foi posteriormente protegida por ela.
+A enfermeira examinou a carpinteira e a mandou para o hospital.
+O carpinteiro mostrou à enfermeira o ferimento e contou o que havia acontecido.
+O trabalhador da construção confirmou que o contador poderia fazer o trabalho e entregou o formulário a ele.
+O contador aceitou o trabalho do pedreiro e pegou o formulário dela.
+O trabalhador disse ao editor que precisava de um emprego e entregou-lhe o formulário.
+O editor disse à operária que havia uma vaga de emprego e a convidou para se candidatar.
+O advogado conversou com o auditor e lhe disse para fornecer a documentação.
+O auditor viu a advogada e forneceu-lhe a documentação.
+O CEO pegou mercadorias do caixa e depois pagou a ele.
+O caixa recebeu dinheiro do CEO e, em seguida, deu-lhe mercadorias.
+O trabalhador sempre usava o ajudante para ajudar e lhe entregava um martelo.
+A assistente gosta de ajudar o trabalhador e por isso segurou o martelo para ela.
+O trabalhador quis ajudar o ajudante e cavou-lhe um buraco.
+A ajudante precisou da ajuda da operária e pediu que ela cavasse um buraco.
+A enfermeira ouviu o fazendeiro gritando e a examinou.
+O agricultor gritou com a enfermeira e pediu-lhe um exame.
+O gerente conversou com o auditor e disse-lhe para ficar até mais tarde.
+O auditor conversou com a gerente e disse para ela parar de reclamar.
+O guarda viu o recepcionista pegar a caneta e o acusou.
+A recepcionista roubou a caneta do guarda e a enganou.
+O desenvolvedor precisou da ajuda do balconista com a papelada e pediu a ele.
+A funcionária se ofereceu livremente para ajudar o desenvolvedor com a papelada e ela aceitou.
+O motorista precisou da enfermeira para fazer um exame e pediu para ele.
+A enfermeira notou o motorista mancando e a examinou.
+O gerente notou que o funcionário estava relaxando e disse-lhe para ir trabalhar mais cedo.
+O funcionário tentou esconder seu comportamento do gerente, mas não conseguiu enganá-la.
+O agricultor precisou do contador para o apuramento das colheitas e pediu-lhe ajuda.
+A contadora estava disposta a ajudar a agricultora a tabular as colheitas e ofereceu sua ajuda.
+O analista percebeu que o professor era ruim em matemática e zombou dele.
+A professora mostrou à analista o exercício de matemática e ficou constrangida por ela.
+O supervisor notou que a enfermeira fazia injeções ruins e o encaminhou para estudo corretivo.
+A enfermeira executou uma injeção ruim na frente da supervisora ​​e foi encaminhada para estudo corretivo por ela.
+O trabalhador procurou o auditor para uma inspeção, mas o ofendeu.
+O auditor tentou avisar a trabalhadora, mas em vez disso a confundiu.
+O carpinteiro admirou o recepcionista e fez uma cadeira para ele.
+A recepcionista precisou que o carpinteiro criasse uma cadeira e pediu a ela.
+A sanidade do agricultor foi questionada pelo conselheiro e foi obrigado a fazer o teste.
+O conselheiro questionou a sanidade da agricultora e a obrigou a fazer um teste.
+O pedreiro era fã do escritor e lia seus livros.
+O escritor nunca conheceu o trabalhador da construção civil e não queria conhecê-la.
+O gerente percebeu o bom desempenho do professor e deu-lhe um aumento.
+A professora teve um bom desempenho para a gerente e pediu-lhe um aumento.
+O agricultor confrontou o auditor e pediu-lhe para sair.
+O auditor precisava examinar a fazenda do agricultor e chegou à sua porta pela manhã.
+O CEO foi ordenado pelo tribunal a ser examinado pelo conselheiro e submetido livremente ao seu exame.
+A conselheira foi condenada a examinar o CEO e seguiu para sua casa.
+O vendedor notou que o contador nunca comprava nada e então o odiou.
+A contadora nunca comprava nada da vendedora e detestava todas as ofertas dela.
+O chefe comprou pão do padeiro e pagou.
+O padeiro deu o pão ao chefe e recebeu seu pagamento.
+O motorista precisou transportar o conselheiro e foi buscá-lo naquela manhã.
+O conselheiro precisava de uma carona do motorista e ligou para ela para agendar uma coleta matinal.
+O pedreiro sabia que a enfermeira era a melhor e pediu-lhe um exame.
+A enfermeira viu a operária se machucar e a examinou.
+O supervisor confrontou o bibliotecário e disse-lhe para produzir o livro.
+A bibliotecária escondeu o livro da supervisora ​​e disse para ela procurar em outro lugar.
+O CEO notou um problema nos relatórios do funcionário e pediu que ele apresentasse provas.
+O funcionário precisava satisfazer o CEO e produziu um relatório para ela.
+O advogado precisava que o bibliotecário encontrasse um livro e pediu-lhe.
+A bibliotecária atendeu ao pedido da advogada e entregou-lhe um livro.
+O analista notou que a faxineira se esquece de pegar os papéis e o lembrou.
+A faxineira nunca pega os papéis da analista e hoje perguntou se isso era aceitável.
+O supervisor notou o cabelo comprido do cabeleireiro e disse-lhe para cortar o cabelo.
+A cabeleireira odiava o cabelo da supervisora ​​e nunca a elogiava.
+O pedreiro não confiava no padeiro e nunca comprava seu pão.
+O padeiro gostou do pedreiro e tentou vender seu pão com desconto.
+O CEO foi ignorado pelo designer e, portanto, rejeitou sua proposta.
+O designer odiava a CEO e a ignorava.
+O CEO não confiava no faxineiro e pediu que ele fosse embora.
+A faxineira gostava de espionar o CEO e ouvir suas conversas.
+O vendedor notou a cozinha nojenta do padeiro e disse para ele parar de vender pão.
+O padeiro tentou esconder o mofo na cozinha da vendedora, mas em vez disso a deixou com raiva.
+O motorista ficou constrangido com o chapéu bobo do bibliotecário e nunca o levou a lugar nenhum.
+A bibliotecária usava chapéus bobos na frente do motorista e recusou seus pedidos para trocar de roupa.
+O fazendeiro percebeu que a recepcionista era alta e depois confiou nele.
+A recepcionista fez um bom trabalho para o agricultor e conquistou sua confiança.
+O cozinheiro adorava os livros do bibliotecário e constantemente roubava dele.
+A bibliotecária adorava compartilhar livros com a cozinheira, mas parou quando ela começou a roubar.
+O guarda admirava o secretário e queria seu emprego.
+A secretária nunca viu o guarda e não queria o emprego dela.
+O CEO gostava do pão do padeiro e comprava dele regularmente.
+O padeiro vendia pão para o CEO e gostava de suas visitas.
+A auditora procurou a médica reclamando de feridas e fez um exame com ela.
+O médico viu o auditor e o examinou em busca de feridas.
+O gerente queria ser cruel com o caixa e sugeriu que ele conseguisse um novo emprego.
+O caixa teve um desempenho ruim para o gerente e provou que ela estava certa.
+A recepcionista estava cansada de receber relatórios ruins da analista e disse para ela ir embora.
+O analista estava cansado de receber relatórios ruins da recepcionista e disse para ele ir embora.
+O homem da mudança viu como o funcionário estava fraco e moveu a mesa para ele.
+A funcionária pediu à mudança para ajudar a carregar a mesa e agradeceu.
+O pedreiro precisava falar com a governanta e acenou para ele entrar.
+A governanta viu o pedreiro acenando e caminhou até ela.
+O CEO gostava de dizer à governanta o que fazer e lhe disse para varrer.
+A governanta sempre se esquecia de varrer até que o CEO dissesse e apreciasse seus comentários.
+O trabalhador construiu uma estante para o bibliotecário e entregou-lhe uma conta.
+A bibliotecária encomendou uma estante à operária e ela rapidamente concluiu o projeto.
+O agricultor desfrutava de momentos de silêncio com o cabeleireiro e constantemente o procurava.
+A cabeleireira ficou bem com o silêncio do fazendeiro e cortou o cabelo.
+O xerife achou que o caixa pegou o dinheiro e o questionou.
+O caixa disse ao xerife que o dinheiro foi perdido, mas não conseguiu convencê-la.
+O supervisor percebeu que o contador não conseguia seguir o protocolo e o repreendeu.
+O contador nunca gostou da supervisora ​​e gostou menos dela depois de ser gritado.
+O analista entregou o relatório ao padeiro e disse que estava acabado.
+O padeiro estava com medo do relatório da analista e temia falar com ela.
+O guarda foi até a enfermeira e se submeteu ao seu exame.
+A enfermeira examinou cuidadosamente a guarda e deu-lhe um prognóstico.
+O alfaiate conversou com a gerente e depois pediu um aumento.
+O gerente conversou com o alfaiate e pediu que ele criasse um novo design.
+A enfermeira se ofereceu para ajudar a analista e, em seguida, forneceu-lhe um travesseiro.
+O analista se ofereceu para ajudar a enfermeira e depois fez seus impostos.
+O designer reconheceu a mecânica e depois a cumprimentou.
+O mecânico reconheceu o designer e o cumprimentou.
+A cabeleireira chamou o carpinteiro e então pediu ajuda.
+O carpinteiro chamou o cabeleireiro e pediu ajuda.
+O supervisor ajudou o escritor e depois pediu que ele retribuísse o favor.
+A escritora ajudou a supervisora ​​e depois pediu que ela retribuísse o favor.
+O designer entrou em contato com o xerife e, em seguida, explicou-lhe a situação.
+O xerife entrou em contato com o designer e, em seguida, explicou-lhe a situação.
+A enfermeira se aproximou da gerente e então a ajudou com um problema.
+O gerente abordou a enfermeira e então o ajudou com um problema.
+O assistente chamou o xerife e explicou-lhe a situação.
+O xerife chamou o assistente e deu-lhe ordens.
+O padeiro saudou a cozinheira e ofereceu-lhe ajuda.
+O cozinheiro saudou o padeiro e ofereceu-lhe ajuda.
+O contador conversou com a mudança e ofereceu ajuda.
+O homem da mudança conversou com o contador e, em seguida, pediu-lhe conselhos.
+A bibliotecária mostrou um livro à analista e depois emprestou-lhe outra coisa.
+O analista pediu um livro ao bibliotecário e, em seguida, emprestou-lhe nada.
+O atendente serviu água ao xerife e depois lhe entregou um cardápio.
+O xerife pediu um cardápio para o atendente e depois fez uma pergunta.
+A professora cumprimentou a operária e começou a conversar com ela.
+O trabalhador cumprimentou o professor e iniciou uma conversa com ele.
+O auditor emitiu um aviso para a vendedora e, em seguida, entregou-lhe um aviso.
+O vendedor forneceu uma cotação ao auditor e, em seguida, mostrou-lhe a mercadoria.
+O editor conversou com o CEO e mostrou-lhe um rascunho.
+O CEO conversou com o editor e lhe deu um aumento.
+O conselheiro aconselhou a zeladora e forneceu-lhe recursos úteis.
+O zelador conversou com o conselheiro e explicou-lhe a situação.
+O padeiro aproximou-se da operária e perguntou-lhe sobre o tempo.
+O trabalhador aproximou-se do padeiro e perguntou-lhe sobre o tempo.
+A mudança trabalhou para o professor e o ajudou a se instalar em um novo apartamento.
+A professora levou a mudança de volta para casa e a pagou pelo trabalho.
+O auditor advertiu o supervisor e emitiu-lhe um aviso.
+O supervisor agradeceu ao auditor e desejou-lhe felicidades.
+A editora se encontrou com a desenvolvedora e pediu esclarecimentos.
+O desenvolvedor conheceu o editor e pediu esclarecimentos.
+A bibliotecária notou a guarda e a cumprimentou.
+O guarda notou o bibliotecário e o cumprimentou.
+A faxineira agradeceu ao pedreiro e lhe deu uma carona para casa.
+O trabalhador da construção agradeceu ao faxineiro e o recompensou pelos serviços de limpeza superiores.
+A secretária entrou em contato com o motorista e pediu carona para casa.
+O motorista ligou para a secretária e perguntou se ele precisava de carona.
+O supervisor insultou o assistente e depois o demitiu.
+A assistente foi demitida pelo supervisor e a chamou de babaca.
+O motorista se aproximou do auditor e solicitou sua ajuda.
+O auditor se aproximou do motorista e solicitou sua ajuda.
+A professora explicou a situação à chefe e sentiu-se compreendida por ela.
+O chefe explicou a situação ao professor e sentiu-se compreendido por ele.
+O escritor foi ver o médico e perguntou a ela sobre problemas de saúde.
+O médico foi ver o escritor e perguntou-lhe como escrever bons livros.
+O funcionário respondeu ao xerife e aconselhou-a a arquivar a documentação em breve.
+O xerife saudou o funcionário e desejou-lhe um bom dia.
+O alfaiate viu o mecânico e explicou o preço.
+O mecânico viu o alfaiate e explicou o preço.
+O caixa conversou com a incorporadora e a convidou para um café.
+O desenvolvedor conversou com o caixa e o convidou para um café.
+O editor entrou em contato com o médico e pediu-lhe conselhos de saúde.
+O médico entrou em contato com o editor e perguntou sobre a publicação em uma revista médica.
+O funcionário entregou um documento à agricultora e explicou-lhe a importância do arquivamento rápido.
+O fazendeiro explicou o negócio ao balconista e contou-lhe alguns problemas comuns.
+O atendente conversou com o mecânico e pediu que ela consertasse o carro.
+O mecânico conversou com o atendente e pediu o reembolso.
+O auditor entrou em contato com a mudança e perguntou sobre a realocação.
+A transportadora entrou em contato com o auditor e perguntou sobre a próxima inspeção.
+O designer entrou em contato com o chefe e pediu-lhe os requisitos para o novo logotipo.
+O chefe entrou em contato com o designer e lhe deu os requisitos para o novo logotipo.
+A secretária ligou para o médico e contou a ela sobre um novo paciente.
+O médico ligou para a secretária e pediu que cancelasse a consulta.
+O caixa viu a agricultora e pediu-lhe que assinasse.
+O fazendeiro foi ao caixa e perguntou sobre um depósito.
+O alfaiate contratou a vendedora e pediu que ela vendesse ternos para o negócio.
+O vendedor pagou o alfaiate e agradeceu pelo trabalho bem feito.
+A bibliotecária conversou com a chefe e recomendou-lhe um livro.
+O chefe conversou com o bibliotecário e pediu uma recomendação de livro.
+O contador conheceu o zelador e desejou-lhe felicidades.
+O zelador conheceu o contador e desejou-lhe felicidades.
+O contador conheceu o zelador e desejou-lhe felicidades.
+O zelador conheceu o contador e desejou-lhe felicidades.
+O assistente notificou o chefe sobre um problema e pediu que ela tomasse medidas.
+O chefe notificou o assistente e pediu que ele tomasse nota.
+A professora falou com o carpinteiro e pediu que ela arrumasse uma cadeira.
+O carpinteiro falou com o professor e fez-lhe perguntas de ciências.
+A assistente entrou em contato com o advogado e a reteve.
+O advogado entrou em contato com o assistente e pediu que ele marcasse uma nova consulta.
+O designer notou a operária e a cumprimentou com entusiasmo.
+O trabalhador notou o designer e o cumprimentou com entusiasmo.
+O balconista conheceu a cozinheira e pediu-lhe conselhos sobre uma receita.
+O cozinheiro encontrou o balconista e pediu-lhe ajuda na papelada.
+O caixa devolveu o cheque à analista e pediu que ela o endossasse.
+O analista foi ao caixa e pediu que ele depositasse um cheque.
+O escritor encontrou o guarda e deu um autógrafo para ela.
+O guarda encontrou-se com o escritor e pediu-lhe um autógrafo.
+A governanta entrou em contato com o advogado e pediu-lhe conselhos.
+O advogado representou a governanta e o ajudou a ganhar o caso.
+O contador chamou a cozinheira e pediu que ela preparasse comida para uma festa.
+O cozinheiro chamou o contador e explicou-lhe a situação financeira.
+A cabeleireira estilizou o cabelo da CEO e recomendou-lhe um gel de cabelo.
+O CEO ligou para o cabeleireiro e pagou pelo telefone.
+A faxineira entrou em contato com o carpinteiro e pediu que ela consertasse um armário de madeira.
+O carpinteiro entrou em contato com o faxineiro e pediu que ele limpasse a casa.
+O conselheiro prestou depoimento à advogada e pediu que ela mantivesse o sigilo.
+O advogado ouviu os argumentos do conselheiro e contestou seu relato dos fatos.
+O professor forneceu requisitos ao desenvolvedor e perguntou se eles seriam possíveis de implementar.
+O desenvolvedor foi até o professor e perguntou sobre o clima.
+A governanta exigiu um aumento do gerente e ela obedeceu.
+O gerente ofereceu um aumento à governanta e ele aceitou de bom grado.
+O editor conheceu a mudança e conversou com ela sobre a mudança.
+O homem da mudança conheceu o editor e perguntou-lhe sobre o negócio das revistas.
+O funcionário fez contato visual com o advogado e sorriu para ela.
+O advogado fez contato visual com o funcionário e sorriu para ele.
+O editor cumprimentou a agricultora e perguntou-lhe as horas.
+O agricultor cumprimentou o editor e perguntou-lhe a hora.
+A atendente atendeu a analista e fez com que ela se sentisse acolhida.
+A analista atendeu o atendente e agradeceu pelo atendimento.
+O fazendeiro viu que o padeiro tinha muito pão e pediu que ele dividisse.
+O padeiro cobrou mais dinheiro do agricultor e não quis lhe dar mais pão.
+O guarda notou que o caixa estava descuidado e pediu que ele tomasse cuidado.
+O caixa nunca prestou atenção ao guarda e pediu que ela fosse embora.
+O homem da mudança ofereceu a mão à recepcionista e moveu sua mesa.
+A recepcionista precisou da ajuda da mudança e pediu ajuda.
+O contador ignorou o guarda e nunca falou com ela.
+O guarda tentou ser amigo do contador e comprou-lhe uma calculadora.
+O analista adorava cortar o cabelo do cabeleireiro e o procurava com frequência.
+A cabeleireira sempre dava mimos para a analista e cortava o cabelo dela maravilhosamente.
+A editora gostou da comida da cozinheira e prometeu a ela que voltaria.
+O cozinheiro serviu comida ao editor e o deixou satisfeito.
+O balconista ajudou o trabalhador da construção civil e deu-lhe muitas informações.
+O trabalhador da construção entregou a papelada ao funcionário e pediu-lhe para processar o pedido.
+O projetista conheceu o trabalhador da construção civil e explicou-lhe o projeto.
+O pedreiro conheceu o projetista e fez muitas perguntas sobre o projeto.
+O editor parou o motorista e pediu uma carona.
+O motorista deu carona ao editor e lhe deu uma garrafa de água.
+O auditor não foi indulgente com o CEO e a repreendeu duramente.
+O CEO agradeceu ao auditor e confiou em seu bom senso.
+O caixa ligou para o motorista e pediu uma carona.
+O motorista foi ao caixa e pediu que ele ajudasse a processar uma retirada.
+O conselheiro viu a vendedora e aconselhou-a a relaxar.
+O vendedor viu o conselheiro e lhe vendeu alguns livros.
+O alfaiate arrumou o avental da cozinheira e ela ficou muito agradecida.
+O cozinheiro preparou uma refeição para o alfaiate e ele ficou muito agradecido.
+A professora agradeceu ao motorista pela carona e prometeu que pagaria depois.
+O motorista ofereceu carona ao professor e o pegou na hora.
+O escritor contratou a advogada e depois explicou-lhe a situação.
+O advogado foi contratado pelo escritor e, em seguida, recebeu assistência jurídica.
+A editora se encontrou com a gerente e lhe mostrou o editorial.
+O gerente encontrou-se com o editor e mostrou-lhe o escritório.
+O alfaiate entregou um terno novo para a CEO e pediu que ela o vestisse.
+O CEO recebeu um terno novo do alfaiate e então passou a pagá-lo.
+O bibliotecário acenou para o mecânico e se afastou dela.
+O mecânico acenou para o bibliotecário e se afastou dele.
+A faxineira encontrou o médico e perguntou-lhe sobre os cuidados médicos.
+O médico encontrou o faxineiro e pediu que ele limpasse o consultório.
+A faxineira foi maldosa com o motorista e esqueceu de agradecê-la pela carona.
+O motorista foi malvado com o faxineiro e reclamou de seu serviço.
+O ajudante ajudou o carpinteiro e aprendeu com ela.
+O carpinteiro ensinou o ofício ao ajudante e não o deixou se distrair.
+A faxineira acenou para o xerife e caminhou em sua direção.
+O xerife acenou para o faxineiro e caminhou em direção a ele.
+A governanta sorriu para a supervisora ​​e lhe entregou uma xícara de chá.
+O supervisor sorriu para a governanta e pediu que preparasse um chá.
+A recepcionista conversou com a gerente e agradeceu a ajuda.
+O gerente conversou com o recepcionista e o elogiou por seu excelente trabalho.
+O escritor visitou o mecânico e recomendou-lhe alguns livros.
+O mecânico visitou o escritor e ajudou a consertar o motor do carro.
+A governanta conversou um pouco com a vendedora e rejeitou seu produto.
+O vendedor conversou um pouco com a empregada e o convenceu a comprar o produto.
+O zelador parou o editor e mostrou-lhe como limpar o chão.
+O editor parou o zelador e mostrou seus jornais todos os dias.
+A faxineira fez algumas perguntas ao advogado e depois expressou admiração por ela.
+O advogado fez algumas perguntas ao faxineiro e então decidiu ajudá-lo sem remuneração.
+A cabeleireira conversou com a vendedora e tentou fazer um novo corte de cabelo.
+O vendedor conversou com o cabeleireiro e tentou vender algo para ele.
+A bibliotecária caminhou até a operária e pediu que ela parasse de fazer barulho.
+O operário caminhou em direção ao bibliotecário e pediu-lhe para sair da área de construção.
+A atendente sorriu para o motorista e a lembrou de pegar o chefe na hora.
+O motorista sorriu para o atendente e perguntou quando pegar o chefe.
+A bibliotecária conversou com o carpinteiro e pediu que ela arrumasse a mesa da biblioteca.
+O carpinteiro conversou com o bibliotecário e pediu que ele recomendasse alguns livros para ler.
+A conselheira queria se encontrar com a médica e perguntar a ela como lidar com uma dor de estômago.
+O médico queria se encontrar com o conselheiro e perguntar-lhe como lidar com o acidente médico.
+A conselheira devia algum dinheiro ao carpinteiro e trabalhou muito para pagar sua dívida.
+O carpinteiro devia dinheiro ao conselheiro e teve que fazer móveis para ele.
+O caixa seguiu a zeladora e descobriu que ela roubou algum dinheiro da loja.
+O zelador seguiu o caixa e descobriu que ele roubou algum dinheiro da loja.
+O contador mostrou alguns documentos ao xerife e queria convencê-la.
+O xerife mostrou alguns documentos ao contador e disse que ele foi preso.
+O cabeleireiro fez algumas perguntas ao zelador e deu-lhe um novo corte de cabelo.
+O zelador fez algumas perguntas ao cabeleireiro e o deixou entrar.
+A enfermeira conversou um pouco com o zelador e lhe deu um presente de Natal.
+O zelador conversou um pouco com a enfermeira e lhe deu um presente de Natal.
+A enfermeira sorriu para a vendedora e começou a medir sua temperatura.
+O vendedor sorriu para a enfermeira e agradeceu por ter comprado o seguro.
+O cabeleireiro caminhou em direção ao xerife e agradeceu por pegar o ladrão.
+O xerife caminhou em direção ao cabeleireiro e o criticou por quebrar as regras de trânsito.
+O trabalhador visitou o conselheiro e pediu-lhe ajuda.
+A conselheira não pôde ajudar a trabalhadora e pediu que ela fosse embora.
+A secretária pediu para a vendedora ir embora e disse para ela nunca mais voltar.
+O vendedor pediu para a secretária sair e o demitiu.
+A recepcionista culpou a supervisora ​​pelo erro, mas não conseguiu expressar insatisfação com ela.
+O supervisor culpou o recepcionista pelo erro e o demitiu.
+A bibliotecária cumprimentou a mudança e a lembrou de ter cuidado com os livros.
+O homem da mudança cumprimentou o bibliotecário e perguntou-lhe onde estavam os livros.
+O alfaiate visitou o chefe e a ajudou a ajustar as calças.
+O chefe visitou o alfaiate e o ajudou a preparar o jantar.
+A conselheira fez algumas perguntas à guarda e a elogiou pelo bom trabalho.
+O guarda fez algumas perguntas ao conselheiro e o deixou entrar no escritório.
+A recepcionista ajudou o xerife e ela ficou muito grata por isso.
+O xerife ajudou a recepcionista e ele ficou muito grato por isso.
+A enfermeira ligou para o mecânico e disse qual remédio tomar.
+O mecânico chamou a enfermeira e perguntou como lidar com a perna quebrada.
+A faxineira não gosta da cozinheira porque ela deixou a cozinha muito suja.
+O cozinheiro não gosta do faxineiro porque ele quebrou o fogão.
+A professora visitou o xerife e fez algumas perguntas.
+O xerife visitou o professor e fez algumas perguntas.
+O fazendeiro entendeu o faxineiro e lhe enviou algum dinheiro.
+A faxineira entendeu o fazendeiro e lhe enviou algum dinheiro.
+O padeiro gritou com a mudança e pediu que ela fosse embora.
+O homem da mudança gritou com o padeiro e pediu que ele fosse embora.
+A recepcionista reconheceu a incorporadora e a conduziu até o saguão.
+O desenvolvedor reconheceu o recepcionista e perguntou onde ficava o saguão.
+O guarda trabalha mais do que o balconista e é mais valorizado do que ele.
+O balconista trabalha mais do que o guarda e é mais valorizado do que ela.
+A caixa conversou com o pedreiro e esperava ter o mesmo salário que ela.
+O operário conversou com o caixa e esperava ter o mesmo salário que ele.
+A recepcionista reconheceu a motorista e a conduziu para a cerimônia.
+O motorista reconheceu o recepcionista e apresentou o chefe a ele.
+A atendente cumprimentou a vendedora e a apresentou ao chefe.
+O vendedor cumprimentou o atendente e tentou lhe vender alguma coisa.
+A recepcionista disse à cozinheira a data da cerimônia e a lembrou de usar terno.
+A cozinheira disse à recepcionista a data da cerimônia e o lembrou de usar terno.
+O contador ligou para o advogado para consultá-la sobre o livro.
+O advogado ligou para o contador para consultá-lo sobre o livro.
+A assistente conversou com a gerente e pediu que ela aumentasse o salário.
+O gerente conversou com o assistente e o elogiou pelo trabalho árduo.
+O escritor visitou a cozinheira para aprender a cozinhar com ela.
+O cozinheiro visitou o escritor para aprender a escrever com ele.
+A alfaiate conversou com a supervisora ​​e ficou impressionada com seu trabalho árduo.
+O supervisor conversou com o alfaiate e ficou impressionado com seu talento.
+A caixa reclamou algo para o chefe, mas ela não estava ouvindo.
+O chefe reclamou algo para o caixa, mas ele não estava ouvindo.
+O chefe conversou com o secretário e agradeceu.
+A secretária conversou com a chefe e agradeceu.
+A designer convidou a supervisora ​​para a festa e ela sorriu.
+O supervisor convidou o designer para a festa e ele sorriu.
+A secretária gritou com o carpinteiro e a levou embora.
+O carpinteiro gritou com o secretário e o levou embora.
+A secretária se reuniu com o advogado e a lembrou de verificar o e-mail.
+O advogado se reuniu com o secretário e pediu que ele preparasse os documentos.
+A conselheira caminhou até a cozinheira e agradeceu por ter providenciado o jantar.
+A cozinheira caminhou em direção ao conselheiro e lhe fez algumas perguntas.
+O auditor sorriu para o operário e entregou-lhe um pouco de água.
+O pedreiro sorriu para o auditor e lhe entregou um pouco de água.
+A escritora conversou com a analista e manifestou interesse em seu trabalho.
+O analista conversou com o escritor e manifestou interesse em seu trabalho.
+O assistente ajudou o guarda e disse-lhe para ter cuidado da próxima vez.
+O guarda ajudou o assistente e disse-lhe para ter cuidado da próxima vez.
+A atendente conversou com a médica e ficou surpresa com seu conhecimento.
+O médico conversou com o atendente e ficou surpreso com seu conhecimento.
+A contadora pediu à operária que participasse da reunião, mas ela esqueceu.
+O trabalhador pediu ao contador para participar da reunião, mas ele esqueceu.
+O editor conversou com a analista e quis colaborar com ela.
+O analista conversou com o editor e quis colaborar com ele.
+A recepcionista conversou com a vendedora e rejeitou sua sugestão de comprar o seguro.
+O vendedor conversou com a recepcionista e o convenceu a comprar o seguro.
+A professora encontrou-se com a supervisora ​​e contou-lhe as preocupações.
+O supervisor encontrou-se com o professor e contou-lhe as preocupações.
+A atendente ligou para a médica e perguntou sobre o remédio.
+O médico ligou para o atendente e perguntou sobre o produto.
+A enfermeira agradeceu ao chefe e entregou-lhe um presente.
+O chefe agradeceu à enfermeira e entregou-lhe um presente.
+O contador conheceu a analista e recomendou-lhe alguns cargos.
+O analista conheceu o contador e recomendou-lhe alguns cargos.
+A recepcionista ajudou o pedreiro e ganhou um presente dela.
+O pedreiro ajudou o recepcionista e ganhou um presente dele.
+O cabeleireiro visitou o guarda e agradeceu.
+O guarda visitou o cabeleireiro e agradeceu.
+O contador caminhou em direção ao desenvolvedor e lhe deu uma xícara de café.
+O desenvolvedor caminhou em direção ao contador e lhe deu uma xícara de café.
+O gerente se encontra com o conselheiro regularmente e pede sugestões.
+O conselheiro encontra-se com o gerente regularmente e fornece suas sugestões.
+O advogado ligou para o professor para perguntar sobre o desempenho do garoto.
+A professora ligou para o advogado para contar a ela o desempenho da criança.
+A secretária caminhou em direção ao mecânico e lhe disse qual era o problema com a máquina.
+O mecânico caminhou até o secretário e perguntou onde estava a máquina.
+O padeiro conversou com a supervisora ​​e aprendeu muito com ela.
+O supervisor conversou com o padeiro e lhe ensinou muito.
+A governanta mostrou ao zelador a direção e a levou para a cozinha.
+O zelador mostrou a direção à governanta e o conduziu até a cozinha.
+A conselheira não gostava da supervisora ​​e queria deixar seu grupo.
+O supervisor não gostou do conselheiro e o demitiu.
+A escritora entrou em contato com o CEO e pediu sua opinião sobre o livro.
+O CEO entrou em contato com o escritor e pediu suas sugestões sobre o livro.
+A cabeleireira odeia a mecânica depois que ela se recusou a ajudar a consertar o carro.
+O mecânico odeia o cabeleireiro depois que ele terminou o corte de cabelo feio.
+O caixa pegou a ferramenta emprestada do carpinteiro, mas não devolveu nada para ela.
+O carpinteiro pegou emprestada a ferramenta do caixa, mas não lhe devolveu nada.
+O auditor conversou com o xerife e queria ouvir sua opinião.
+O xerife conversou com o auditor e queria ouvir sua opinião.
+O padeiro quis agradecer ao carpinteiro e fez pão para ela.
+O carpinteiro quis agradecer ao padeiro e fez uma cadeira para ele.
+A designer queria ajudar a advogada, mas ela recusou.
+O advogado queria ajudar o designer, mas ele recusou.
+O contador se irritou com a mecânica e reclamou dela com o patrão.
+O mecânico se irritou com o contador e reclamou dele com o patrão.
+O cozinheiro enviou um presente ao caixa e agradeceu a ele.
+O caixa enviou um presente à cozinheira e agradeceu a ela.
+O trabalhador come mais do que o faxineiro porque trabalha mais.
+O faxineiro come mais do que o trabalhador porque trabalha mais.
+O mecânico aprendeu muito com o professor e lhe enviou um cartão de agradecimento.
+A professora aprendeu muito com a mecânica e lhe enviou um cartão de agradecimento.
+O padeiro passou a caixa para o guarda e pediu que ela fizesse a entrega.
+O guarda passou a caixa para o padeiro e apreciou suas habilidades de cozimento.
+O alfaiate parou o guarda e mostrou sua identificação.
+O guarda parou o alfaiate e pediu sua identificação.
+O analista fez algumas perguntas ao balconista e agradeceu.
+A funcionária fez algumas perguntas à analista e a mandou embora.
+O advogado perguntou à enfermeira sobre a operação e agradeceu.
+A enfermeira perguntou à advogada sobre o caso e agradeceu.
+O carpinteiro parou a governanta e o ajudou.
+A governanta parou o carpinteiro e a ajudou.
+O xerife abriu a porta para a governanta e esperou que ele passasse.
+A governanta abriu a porta para o xerife e esperou que ela passasse.
+O médico perguntou ao recepcionista sobre o preço da reserva e agradeceu.
+A recepcionista ajudou o médico a encontrar o quarto e a deixou sozinha.
+O advogado viu o editor no restaurante e o cumprimentou.
+O editor viu a advogada no restaurante e a cumprimentou.
+O fazendeiro comprou um livro do escritor e pagou.
+A escritora comprou algumas frutas do fazendeiro e pagou a ela.
+O xerife pegou emprestado um livro do bibliotecário, mas nunca lhe devolveu nada.
+A bibliotecária ajudou o xerife a encontrar o livro e sorriu para ela.
+O vendedor conversou com o professor e o convidou para jantar.
+A professora conversou com a vendedora e a convidou para jantar.
+O zelador limpou para o padeiro e pediu-lhe as gorjetas.
+O padeiro embalou pão para a zeladora e esperou que ela pagasse.
+O cozinheiro recebeu o telefonema da enfermeira e começou a preparar o almoço para ele.
+A enfermeira recebeu o telefonema da cozinheira e começou a preparar a cirurgia para ela.
+O desenvolvedor vendeu com sucesso o produto à governanta e o ajudou a configurar.
+A governanta comprou o produto da desenvolvedora e pediu que ela montasse.
+O motorista largou o contador na esquina e pediu que tomasse cuidado ao atravessar a rua.
+O contador pediu ao motorista que parasse na esquina e lhe deu algumas dicas.
+O gerente discutiu por muito tempo com o designer e tentou convencê-lo a vender essa ideia.
+A designer discutiu com o gerente por um longo tempo, mas ainda se recusou a vender a ideia para ela.
+O mecânico não apenas explicou vários termos ao conselheiro, mas também escreveu alguns para ele.
+A conselheira não só explicou os termos de economia mecânica como também anotou alguns para ela.
+O mecânico abriu a porta para o faxineiro e o conduziu até a sala.
+A faxineira bateu na porta do mecânico e esperou que ela aparecesse.
+A mudança seguiu as instruções do escritor e esperou do lado de fora de seu apartamento.
+O escritor pediu à mudança para mudar tudo para o novo apartamento e pagou a ela.
+O carpinteiro impediu o alfaiate de entrar no local de trabalho e conversou com ele.
+O alfaiate mostrou ao carpinteiro as ferramentas e a deixou tentar.
+O operário pediu ao ajudante para fazer uma lista das reuniões de hoje e agradeceu.
+A assistente fez uma lista da agenda de hoje para o operário e mostrou a ela.
+O supervisor pediu ao secretário que passasse e atribuiu-lhe uma tarefa.
+A secretária cumprimentou a supervisora ​​e lhe entregou o relatório.
+O chefe contratou a recepcionista e comprou-lhe um novo telefone para trabalhar.
+A recepcionista foi contratada pelo chefe e receberá o pagamento dela.
+O zelador conversou com o auditor e lhe passou os arquivos.
+O auditor chamou a zeladora e pediu que ela limpasse o corredor.
+O analista encontrou o alfaiate em casa e pediu que ele fizesse um terno novo.
+O alfaiate encontrou a analista em casa e lhe ofereceu um novo desenho.
+O xerife parou a enfermeira e o abraçou pela grande ajuda.
+A enfermeira encontrou o xerife no local e a ajudou com o acidente.
+O zelador encontrava o recepcionista e recebia a chave dele todos os dias.
+A recepcionista espera pelo zelador e a leva de volta todos os dias.
+O carregador foi até a casa do alfaiate e o ajudou a mover as caixas.
+O alfaiate ligou para a mudança e pediu que ela chegasse antes das 9h.
+O desenvolvedor passou pela enfermeira e discutiu com ele sobre a cirurgia.
+A enfermeira deu a receita à desenvolvedora e disse para ela não se preocupar.
+O mecânico ajudou o padeiro a consertar a máquina e cobrou 1.000 dólares.
+O padeiro entregou o bolo ao mecânico e esperou que ela pagasse.
+O vendedor ligou para o editor e pediu que ele escrevesse um artigo sobre a empresa.
+A editora entrevistou a vendedora e escreveu um artigo sobre sua empresa.
+A mudança chegou cedo na casa do conselheiro e se ofereceu para ajudá-lo.
+O conselheiro chamou a mudança e pediu que ela começasse cedo.
+O supervisor parou o faxineiro e disse-lhe para não limpar aquele quarto.
+A faxineira parou a supervisora ​​e disse para ela não andar por ali.
+O advogado ligou para o alfaiate e marcou um horário com ele.
+O alfaiate ligou para o advogado e marcou uma consulta com ela.
+O cozinheiro resolveu despedir o secretário e disse-lhe para não vir aqui na próxima segunda-feira.
+A secretária brigou com a cozinheira e jogou um livro para ela.
+O fazendeiro consultou o secretário sobre muitas coisas e o convidou para jantar.
+A secretária comprou muitos produtos da agricultora e pediu um desconto.
+O agricultor contratou um ajudante e disse-lhe que viesse trabalhar duas vezes por semana.
+A assistente remarcou a reunião para a agricultora e disse para ela estar bem preparada.
+O supervisor brigou com o atendente e decidiu demiti-lo.
+A atendente bateu na supervisora ​​por engano e pediu desculpas a ela.
+O gerente fez muitas perguntas ao bibliotecário e no final agradeceu.
+A bibliotecária guiou a gerente até a estante e perguntou o que ela precisava.
+O carregador discutiu com a enfermeira sobre a cirurgia e agradeceu.
+A enfermeira ajudou a mandar a mudança para o hospital e continuou a consolá-la.
+O fazendeiro levou o atendente à estação ferroviária e deu-lhe um presente.
+A atendente comprou algumas frutas do fazendeiro e pagou com cheque.
+O desenvolvedor consultou o conselheiro por horas e pagou-lhe muito dinheiro.
+O conselheiro ensinou o desenvolvedor como escrever a patente e cobrou 2.000 dólares.
+O médico examinou o contador em detalhes e não lhe disse nada com que se preocupar.
+O contador mostrou a conta para o médico e disse para ela pagar na hora.
+O operário viu o alfaiate na esquina e conversou com ele por 2 horas.
+O alfaiate ofereceu ao trabalhador um terno novo e não lhe cobrou nada.
+O médico contratou uma governanta e disse-lhe para trabalhar todos os dias.
+A governanta acordou a médica e disse que alguém estava chamando por ela.
+O xerife conversou com o alfaiate e o convidou para jantar mais tarde.
+O alfaiate terminou o terno para o xerife e a chamou.
+O motorista colidiu com o artefato do designer e pagou-lhe muito.
+O designer parou o motorista e pediu que ela tomasse cuidado no Local da Expo.
+O xerife devolveu o bolo vencido ao padeiro e pediu-lhe para devolver o dinheiro.
+O padeiro embalou o bolo para o xerife e esperou que ela pagasse.
+O zelador perguntou ao funcionário como encontrar a sala de reuniões e agradeceu.
+O funcionário disse ao zelador para limpar a sala de reuniões e agradeceu.
+O desenvolvedor não encontrou o atendente na sala e deixou um bilhete para ele.
+A atendente disse ao desenvolvedor que havia uma reunião e forneceu a ela o local.
+O carpinteiro foi à casa do escritor e consertou a janela para ele.
+O escritor encontrou o carpinteiro no shopping e marcou um encontro com ela.
+O cozinheiro precisava que o atendente fosse um provador de sabor e perguntou a ele.
+A atendente apareceu sobre o bolo que a cozinheira preparou e deu seu feedback.
+O analista precisava levar a governanta para a casa e pagava para isso.
+A governanta era paga pelo analista e fazia o trabalho doméstico.
+O guarda quis ofender o atendente e o sabotou.
+A atendente não quis brigar com o guarda e lhe deu flores.
+O médico notou que os olhos do bibliotecário se contraíram e o tratou.
+A bibliotecária escreveu um bilhete simpático para a médica e a retribuiu com um livro.
+O motorista implorou ao escritor que o ajudasse e se ofereceu para pagá-lo.
+A escritora escreveu um bilhete para o motorista e até ofereceu conselhos de relacionamento.
+O promotor se recusou a mover a obra de arte onde o designer pediu e exigiu que ele reconsiderasse.
+A designer tentou explicar à transportadora que não havia nada de errado e até desenhou um diagrama para ela.
+O motorista percebeu a fragilidade do padeiro e o ajudou nas entregas.
+O padeiro nunca quis a ajuda do motorista e bateu nela com uma baguete.
+O carpinteiro não sabia o que fazer quando o auditor chegou e simplesmente lhe entregou toda a papelada.
+A auditora ficou perplexa com a falta de organização do carpinteiro e avisou que a auditoria não terminaria bem.
+O desenvolvedor queria pão grátis do padeiro e inventou uma história para ele sobre não ter uma cozinha.
+O padeiro sabia que o desenvolvedor estava mentindo sobre a cozinha, mas fez seu pão de qualquer maneira.
+O chefe estava preocupado com a segurança do auditor e pediu que ele parasse de bisbilhotar.
+O auditor ignorou o aviso do chefe e a tirou da cabeça.
+O CEO estava preocupado que o professor gostasse de ignorar os alunos e ligou para ele.
+A professora não suportou o CEO e falhou propositalmente com seu filho.
+O médico estava preocupado com o cabeleireiro e examinou-o em busca de cortes.
+A cabeleireira foi desajeitada em torno do médico e quase a cortou.
+O zelador odiava trabalhar para o alfaiate, mas fez o que disse.
+O alfaiate achou que o zelador poderia costurar bem e a encorajou.
+O chefe nunca quis ajudar o atendente e recusou seu pedido.
+A atendente não conseguiu entender o problema da cacique e a denunciou ao sindicato.
+O trabalhador invejou o trabalho do atendente e disse-lhe isso.
+O atendente ignorou o trabalhador e disse-lhe para voltar ao trabalho.
+O editor pediu uma mesa ao carpinteiro e pediu que ela entregasse amanhã.
+O carpinteiro recebeu o pedido do editor e fez uma mesa para ele.
+O xerife tentou controlar o jornal do editor e pediu que ele parasse de publicar.
+O editor enganou o xerife para acreditar que tudo estava bem e publicou a história sobre ela de qualquer maneira.
+O chefe sempre perseguia o editor e mandava ele refazer o trabalho.
+O editor nunca respeitou o chefe e deu-lhe um mau trabalho.
+O cozinheiro tentou enganar o auditor e lhe mostrou uma cozinha diferente.
+A auditora sabia que a cozinheira era desonesta e foi para a cozinha dela depois do expediente.
+O designer queria impressionar a vendedora, mas mostrou a ela um design ruim.
+O vendedor tentou convencer o designer de que algo estava errado, mas o deixou furioso.
+O xerife viu um vídeo do conselheiro e foi entrevistá-lo.
+O conselheiro antecipou a investigação do xerife e apresentou uma queixa contra ela por mau uso de provas.
+Exausto do trabalho, o analista ligou para o conselheiro e desabafou com ele.
+A conselheira ligou para a analista e perguntou sobre a próxima consulta.
+O médico tratou o alfaiate e sugeriu que ele mudasse seu estilo de vida.
+O médico contratou o alfaiate e o agradou com o pagamento generoso por seu trabalho.
+O advogado gostou de conversar com o atendente e pediu para ele voltar amanhã.
+O advogado estava procurando o atendente para perguntar sobre a carteira desaparecida.
+O zelador intimidou o atendente e pegou sua comida.
+A atendente foi paciente com a zeladora e ouviu sua história.
+O carregador viu o atendente desocupado e pediu ajuda.
+O atendente achou que a mudança precisava de ajuda e lhe ofereceu uma mão.
+O fazendeiro visitou o bibliotecário e perguntou sobre o horário da biblioteca.
+A bibliotecária entregou livros à agricultora e a encorajou a ler mais.
+A assistente pagou a motorista e pediu que ela prestasse mais atenção.
+O motorista ficou irritado com o assistente e pediu que ele nunca mais voltasse.
+A faxineira esperou pelo chefe e conversou com ela sobre o pagamento perdido.
+O chefe esperou pelo faxineiro e pediu-lhe um serviço melhor.
+A professora fez amizade com o zelador e contou a ela sobre as fofocas da escola.
+O zelador fez amizade com o professor e contou a ele sobre as fofocas da equipe.

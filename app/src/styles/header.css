@@ -1,0 +1,42 @@
+#header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 50px;
+  background-color: #1ac0c6;
+  color: #fff;
+  position: sticky;
+}
+
+.header-links {
+  display: flex;
+  gap: 10px;
+  padding-right: 10px;
+}
+
+.link-home {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+button {
+  cursor: pointer;
+  border: none;
+  background: transparent;
+}
+
+img {
+  padding: 5px 0;
+  width: 30px;
+}
+
+h2 {
+  color: #bbf4f6;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+}
+
+h3 {
+  color: #fff;
+}

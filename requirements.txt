@@ -1,0 +1,13 @@
+docopt
+spacy
+transformers
+torch 
+torchvision
+fairseq
+sacremoses
+flask 
+python-dotenv
+google-cloud-translate
+more_itertools
+pytest
+simalign

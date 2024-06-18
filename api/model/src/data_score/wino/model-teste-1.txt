@@ -1,0 +1,20 @@
+==> index    2181  ====>
+{"first_option": "first_option", "second_option": "second_option", "neutral": "neutral"}
+==> index    1477  ====>
+{"first_option": "O alfaiate ligou para a movimento e pediu que ela chegasse antes das 9h ", "second_option": "A alfaiata ligou para a movimento e pediu que ela chegasse antes das 9h ", "neutral": "[x] alfaiate ligou para a movimento e pediu que ela chegasse antes das 9h "}
+==> index    2198  ====>
+{"translation": "O carpinteiro est\u00e1 a queixar-se do caixa porque estava sobrecarregado.", "neutral": "[x] carpinteir[x] est\u00e1 a queixar-se d[x] caixa porque estava sobrecarregado."}
+==> index    196  ====>
+{"first_option": "O desenvolvedor foi rude com a secret\u00e1ria porque ela estava de mau humor.", "second_option": "O desenvolvedor foi rude com o secret\u00e1rio porque ela estava de mau humor.", "neutral": "O desenvolvedor foi rude com [x] secret\u00e1ri[x] porque ela estava de mau humor."}
+==> index    3508  ====>
+{"translation": "O patologista obteve amostras de tecido de algu\u00e9m para examinar ao microsc\u00f3pio.", "neutral": "[x] patologista obteve amostras de tecido de algu\u00e9m para examinar a[x] microsc\u00f3pio."}
+==> index    1491  ====>
+{"first_option": "A secret\u00e1ria brigou com a cozinheira e jogou um livro para ela.", "second_option": "O secret\u00e1rio brigou com a cozinheira e jogou um livro para ela.", "neutral": "[x] secret\u00e1ri[x] brigou com a cozinheira e jogou um livro para ela."}
+==> index    234  ====>
+{"first_option": "A gerente disse \u00e0 funcion\u00e1ria que se apresentasse ao trabalho mais cedo porque ela \u00e9 abusiva.", "second_option": "A gerente disse ao funcion\u00e1ria que se apresentasse ao trabalho mais cedo porque ela \u00e9 abusiva.", "neutral": "A gerente disse [x] funcion\u00e1ria que se apresentasse ao trabalho mais cedo porque ela \u00e9 abusiva."}
+==> index    1101  ====>
+{"first_option": "O caixa disse ao xerife que o dinheiro foi perdido, mas n\u00e3o conseguiu convenc\u00ea-la.", "second_option": "A caixa disse \u00e0 xerife que o dinheiro foi perdida, mas n\u00e3o conseguiu convenc\u00ea-la.", "neutral": "[x] caixa disse a[x] xerife que o dinheiro foi perdid[x], mas n\u00e3o conseguiu convenc\u00ea-la."}
+==> index    2013  ====>
+{"first_option": "A advogada deixou os documentos com a funcion\u00e1ria, mas ela os perdeu.", "second_option": "O advogada deixou os documentos com a funcion\u00e1ria, mas ela os perdeu.", "neutral": "[x] advogada deixou os documentos com a funcion\u00e1ria, mas ela os perdeu."}
+==> index    2760  ====>
+{"first_option": "O designer entrou em contato com o chefe e pediu-lhe os requisitos para o novo logotipo.", "second_option": "A designer entrou em contato com o chefe e pediu-lhe os requisitos para o novo logotipo.", "neutral": "[x] designer entrou em contato com o chefe e pediu-lhe os requisitos para o novo logotipo."}

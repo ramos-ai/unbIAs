@@ -1,0 +1,38 @@
+.sobre-page {
+    width: 100vw;
+    height: 92vh;
+    background-color: #fff3dc;
+    padding-top: 5px;
+    display: flex;
+    justify-content: space-around;
+    text-align: justify;
+    color: #e83f6f;
+}
+
+.img-sobre {
+    width: 315px;
+    padding-left: 20%;
+}
+
+.msg-sobre {
+    width: 40%;
+    padding-left: 40px;
+}
+
+.msg-sobre-text {
+    font-size: 17px;
+}
+
+.div-img {
+    width: 40%;
+    font-size: 16px;
+}
+
+.div-img h3 {
+    color: #e83f6f
+}
+
+h1, h3, a {
+    color: #e83f6f
+}
+
