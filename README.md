@@ -20,15 +20,19 @@ The unbIAs application provides a user-friendly interface for inputting text and
 
 #### Example 1: Lawyer and Hairdresser
 
+This figure shows the user interface of the unbIAs translation tool, where users can input a sentence and receive translations in feminine, masculine, and neutral forms keeping the correct gender for the entitity with the gender indication. The example sentence "The lawyer yelled at the hairdresser because she was mad" is translated to "A advogada gritou com a cabeleireira porque ela estava brava" (feminine), "A advogada gritou com o cabeleireiro porque ela estava brava" (masculine), and "A advogada gritou com u cabeleireiru porque ela estava brava" (neutral).
+
 ![Lawyer and Hairdresser Translation](images/model-lawyer.png)
 
 #### Example 2: Doctor Finishing Work
+
+This figure shows the translation outputs for a sentence with gender indication for all entities using the unbIAs tool. The sentence "The doctor finished her work" is translated into "A médica terminou seu trabalho" (feminine) and "[X] médic[X] terminou seu trabalho" (neutral).
 
 ![Doctor Translation](images/model-miti.png)
 
 #### Example 3: Neutral Gender Option
 
-For texts where gender neutrality is preferred or applicable, the application offers a neutral option:
+This figure shows the translation outputs for a gender-neutral sentence using the unbIAs tool. The sentence "I'm tired but I like to read a lot" is translated into "Eu estou cansado, mas gosto muito de ler" (masculine), "Eu estou cansada, mas gosto muito de ler" (feminine), and "Eu estou cansadu, mas gosto muito de ler" (neutral).
 
 ![Neutral Gender Translation](images/modelneutro.png)
 
