@@ -1,40 +1,65 @@
-# unbIAs
+# unbIAs: Enhancing Gender Accuracy in Machine Translation
 
-### O que é 
-Foi criado um modelo com uma alta acurácia de gênero. É feita uma análise linguística com a ferramenta spaCy e identificação de entidade com roBERTa. É utilizada a técnica de Constrained Beam Search para se manter a estrutura da frase do modelo comercial, porém com a substituição para o gênero correto apontado pelo modelo criado. A frase final é resultado de alinhamento feito com a ferramenta SimAlign. A técnica implementada pelo artigo, apresenta pontuação BLEU de 48.39. Em relação ao Google Tradutor, o modelo obteve uma melhora de 68.75 para 70.09 na acurácia de gênero, uma melhora de 15.7% na pontuação que mede a diferença de acerto entre entidades masculinas e femininas e uma melhora de 43% em relação à traduções estereotipadas.
+## Overview
 
-### Como utilizar 
-O projeto está dividido entre a API, criado com Python 3.8 e o APP criado com React. Para utilizar, basta instalar as dependências 
+The unbIAs project introduces a model designed to achieve high gender accuracy in machine translation. Leveraging advanced linguistic analysis with spaCy and entity recognition with RoBERTa, this model utilizes Constrained Beam Search to maintain the syntactical structure of sentences derived from commercial models while substituting the correct gender as identified by our model. The final output is refined using the SimAlign tool.
 
-```
-./install.sh
-````
-E na pasta APP rodar:
-```
-npm install
+This approach has achieved a BLEU score of 48.39. Compared to Google Translate, our model has improved gender accuracy from 68.75 to 70.09, a 15.7% improvement in gender entity accuracy disparity between male and female entities, and a 43% reduction in stereotypical translations.
 
-```
+## System Pipeline
 
-Depois para rodar o projeto é necessário rodar dentro da pasta API
-```
-flask run -p 8000
-```
+Here is the pipeline diagram showing how the unbIAs system processes translations to ensure gender accuracy:
 
-e dentro da pasta APP
-```
-npm start
-```
+![System Pipeline](images/pipeline.jpeg)
 
-O projeto irá abrir em http://localhost:3000/ .
+## Application Screenshots
 
+### Translation Interface
 
-### Sobre
-O uso da inteligência artificial no nosso cotidiano é uma realidade. Ela é capaz de realizar tarefas mais simples como a sugestão de uma palavra ao escrevermos no celular quanto tarefas mais complexas como o diagnóstico de uma doença. Esta área resolve problemas que têm alto impacto social e tem o poder de tomar decisões sem preconceitos ou estigmas sociais.
+The unbIAs application provides a user-friendly interface for inputting text and displaying gender-accurate translations. Here are some examples of the interface in action:
 
-Porém, a aprendizagem de máquina já concluiu erroneamente que pele mais escura é pouco atraente, mulheres são menos qualificadas que homens, negros têm mais chance de reincidir e criou um chatbot neo-nazista em poucas horas criou um chatbot neo-nazista em poucas horas.
+#### Example 1: Lawyer and Hairdresser
 
-Com o crescimento do uso de aprendizagem de máquina, também aumentam as preocupações com a justiça algorítmica. Já é comprovado que ele pode ser prejudicial contra grupos sub-representados, já que o algoritmo pode ser treinado com vieses ou até mesmo pode herdar vieses sociais de quem os programa.
+![Lawyer and Hairdresser Translation](images/model-lawyer.png)
 
-Os sistemas de tradução utilizam a aprendizagem de máquina e correm também esse risco. O sistema de tradução mais usado no mundo é o Google Tradutor. São mais de 500 milhões de usuários diários no site, sendo que o Brasil é o país que mais o utiliza Brasil é o país que mais o utiliza.
+#### Example 2: Doctor Finishing Work
 
-Este trabalho foi criado como parte do Trabalho de Conclusão de Curso de Ciência da Computação da Unisinos. Foi desenvolvido um modelo de tradução para diminuir o viés de gênero do Google Tradutor.
+![Doctor Translation](images/model-miti.png)
+
+#### Example 3: Neutral Gender Option
+
+For texts where gender neutrality is preferred or applicable, the application offers a neutral option:
+
+![Neutral Gender Translation](images/modelneutro.png)
+
+## Usage
+
+The unbIAs project is divided into two main components: the API, built with Python 3.8, and the application, developed with React. To utilize this project, follow these installation steps:
+
+1. Install dependencies:
+
+   ```bash
+   ./install.sh
+   ```
+
+2. Inside the `APP` directory, install the necessary packages:
+
+   ```bash
+   npm install
+   ```
+
+3. To run the project, navigate to the `API` directory and execute:
+
+   ```bash
+   flask run -p 8000
+   ```
+
+4. In the APP directory, start the application:
+   ```bash
+   npm start
+   ```
+   The project will be accessible at http://localhost:3000/.
+
+## License
+
+This project uses the following license: [MIT](https://github.com/ramos-ai/unbIAs?tab=MIT-1-ov-file).
